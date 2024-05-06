@@ -1,0 +1,141 @@
+fi	sv	en
+maastopalo	terrängbrand	wildfire
+metsäpalo	skogsbrand	forest fire
+pintapalo	ytbrand	surface fire
+ryömivä palo	krypande brand	creeping fire
+maapalo	jordbrand	ground fire
+latvapalo	toppbrand	crown fire
+aktiivinen latvapalo	aktiv toppbrand	active crown fire
+itsenäinen latvapalo	självständig toppbrand	independent crown fire
+passiivinen latvapalo	passiv toppbrand	passive crown fire
+ruohikkopalo	gräsbrand	grass fire
+turvepalo	torvbrand	peat fire
+suopalo	brand på torvmark	peatland fire
+turvetuotantoalueen palo	brand på torvproduktionsområde	peat production site fire
+kenttäpalo	täktbrand	peat field fire
+aumapalo	stackbrand	peat stockpile fire
+paloaineskerros	bränsleskikt	fuel bed
+palokuorma I	brandbelastning	fuel loading
+paloaineskokonaisuus	bränslehelhet	fuel complex
+välittäjäaines	stegbränsle	ladder fuel
+vaarallinen paloaines	farligt bränsle	hazard fuel
+metsän paloaines	skogsbränsle	forest fuel
+maan paloaines	markens brandbränsle	ground fuel
+latvusaines	kronskiktets brandbränsle	canopy fuels
+metsän paloaineksen syttyvyys	antändlighet	forest fuel flammability
+paloainestyyppi	bränsletyp	fuel type
+palokasvustotyyppi	typ av levande bränsle	live fuel type
+paloaineksen kosteuspitoisuus	skogsbränslets fukthalt	fuel moisture content
+kuollut paloaines	dött bränsle	dead fuel
+kuloheinä	fjolårsgräs	cured grass
+elävä paloaines	levande bränsle	live fuel
+hieno paloaines	finbränsle	fine fuel
+karkea paloaines	grovt brandbränsle	heavy fuel
+metsäpalontorjunta	bekämpning av skogsbrand	forest fire protection
+metsäpalon torjuntasuunnitelma	bekämpningsplan mot skogsbrand	forest fire protection plan
+metsäpalojen ennaltaehkäisy	förebyggande av skogsbränder	forest fire prevention
+metsäpalojen havainnointi	bevakning av skogsbränder	forest fire monitoring
+metsäpalojen satelliittihavainnointi	satellitövervakning	satellite monitoring of forest fires
+metsäpalon sammutus	släckning av skogsbrand	forest fire suppression
+ilmatähystys	flygspaning	aerial monitoring
+jälkivartiointi	efterbevakning	post-fire surveillance
+sammutustaktiikka	släckningstaktik	fire suppression tactics
+sammutustekniikka	släckningsteknik	fire suppression technique
+sammutuskalusto	släckningsutrustning	fire suppression equipment
+jälkisammutus	eftersläckning	mop-up
+epäsuora sammutustaktiikka	indirekt släckningstaktik	indirect tactics
+suora sammutustaktiikka	direkt släckningstaktik	direct tactics
+lentosammutus	flygsläckning	aerial fire suppression
+kärjen sammuttaminen	attack mot huvudet	head attack
+sivusta sammuttaminen	flankattack	flank attack
+rintamasammuttaminen	frontattack	frontal attack
+vyöryttäminen	släckning längs eldfronten	fire suppression along the fire front 
+metsäpalon rajoittaminen	begränsning av skogsbrand	fire limitation
+tukahduttaminen	kvävning	smothering
+sammuttaminen kemikaaleilla	släckning med kemikalier	chemical suppression
+jäähdyttäminen	avkylning	cooling
+vesisammutus	släckning med vatten	water extinguishing
+tulella sammuttaminen	släckning med eld	firing out
+sammutusraivaus	släckningsröjning	starvation
+vastatuli	moteld	backfire
+suojapoltto	skyddsbränning	burning out
+palon este	brandhinder	fire barrier
+luonnoneste	naturligt hinder	natural fire barrier
+rajoituslinja	brandbegränsningslinje	firebreak
+palokuja	brandgata	fire line
+palokäytävä	brandkorridor	fire alley
+metsäpaloregiimi	brandregim	forest fire regime
+metsäpaloalue	skogsbrandsområde	forest fire area
+metsäpaloympäristö	brandpåverkad miljö	fire-impacted environment
+palokuorma II	brandbelastning II	fire load
+metsäpalon voimakkuus	skogsbrandens styrka	forest fire intensity
+metsäpalohistoria	brandhistoria	forest fire history
+metsäpaloindeksi	index för skogsbrand	forest fire index
+metsäpalovaroitus	varning för skogsbrand	forest fire warning
+palojälki	brandspår	burn severity
+metsäpaloriski	risk för skogsbrand	forest fire risk
+metsäpalovaara	fara för skogsbrand	forest fire danger
+metsäpalokausi	skogsbrandssäsong	forest fire season
+metsäpaloväli	brandintervall	forest fire interval
+palosykli	brandintervall	fire-return interval
+metsäpalon vaikutukset	skogsbrandens inverkan	forest fire effects
+metsäpalojen toistuvuus	skogsbrandsfrekvens	forest fire frequency
+metsäpalon vaikuttavuus	skogsbrandens verkningsgrad	forest fire severity
+palon kieleke	finger	finger
+palopesäke	brandhärd	hotspot
+palon kärki	eldens huvud	head of the fire
+palon sivusta	brandens flank	flank of the fire
+palon ulkoreuna	eldband	perimeter of fire
+palon takaosa	brandens rygg	rear of the fire
+tulirintama	brandfront	fire front
+heitepalo	kastbrand	spot fire
+heite	flygbrand	flying ember
+kulotus	bränning	prescribed burning
+metsänhoidollinen kulotus	hyggesbränning	silvicultural burning
+luonnonhoidollinen kulotus	naturvårdsbränning	biodiversity burning
+ennallistamispoltto	restaureringsbränning	restoration burning
+ennallistamiskulotus	restaurerande naturvårdsbränning	regeneration slash burning
+karuunnuttamiskulotus	bränning i solexponerad sluttning	impoverishment burning
+perinneympäristön hoitokulotus	naturvårdsbränning i vårdbiotop	prescribed cultural fire
+säästöpuuryhmän poltto	bränning av grupp av naturvårdsträd	burning of retention trees
+hevosenkenkäkulotus	hästskobränning	ring burning
+laikkukulotus	fläckbränning	spot burning
+sivutulitekniikka	parallella tändlinjer mot vind	flanking fire
+vastatuulitekniikka	bränning i motvind	backing fire
+kaistalesytytys	stegvis medvindsbränning	strip firing
+säteittäinen kulotus	stjärntändning på kulle	chevron firing
+sisäkkäisten sytytyslinjojen menetelmä	ringtändning	center and circular firing
+soihtupalo	fackelbrand	torching
+tuulivaikutteinen palo	vindpåverkad brand	wind-driven fire
+suurpalo	storbrand	large fire
+latvapaloindeksi	toppbrandindex	crown-fire index
+liekinkorkeus	flamhöjd	flame height
+liekinpituus	flamlängd	flame length
+ensi-isku	första angrepp	initial attack
+ruohikkopalovaroitus	varning för gräsbrand	grass fire warning
+ruohikkopaloindeksi	gräsbrandindex	grass-fire index
+luonnon metsäpalo	naturlig skogsbrand	natural forest fire
+hosa	brandkvast	fire swatter
+kulonkiertämä	brandrefugium	fire refugia
+palonsuosija	brandgynnad art	pyrophilous species
+palonvaatija	brandberoende art	fire-dependent species
+kytöpalo	pyrande brand	smoldering fire
+metsäpalovakuutus	försäkring för skogsbrand	forest fire insurance
+palamisnopeus	brandhastighet	burning rate
+paloekologia	brandekologi	fire ecology
+palokoro	brandljud	fire scar
+kaskimetsä	svedjeskog	slash-and-burn forest
+syttymistodennäköisyys	antändningssannolikhet	ignition probability
+palokolmio	brandtriangel	fire triangle
+tulipyörre	eldvirvel	fire whirl
+tulimyrsky	eldstorm	firestorm
+konvektio	konvektion	convection
+kulotuksen suorittaja	verkställare av bränning	prescribed burning organization
+kulotuksen vastuuhenkilö	ansvarsperson för bränning	prescribed burner
+kulotuksen johtaja	bränningsledare	prescribed burn manager
+kulotusilmoitus	anmälan om bränning	notice of prescribed burning
+kulotuksen turvallisuussuunnitelma	säkerhetsplan för bränning	safety plan for prescribed burning
+palonkäyttäytymiskolmio	brandbeteendetriangel	fire behavior triangle
+palosää	brandväder	fire weather
+palokaivo	brandbrunn	extinguishing water well
+

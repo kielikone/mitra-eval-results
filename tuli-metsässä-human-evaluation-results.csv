@@ -1,0 +1,679 @@
+,mt,translation,score,n_constraints,max_constraints,constraint%,time
+0,Poro,"Metsäpalo, ruohikkopalo ja suopalo ovat esimerkkejä maastopaloista.",Käännös huono,0,5,0.0,1.210578171
+1,Poro,maaperän ja/tai aluskasvillisuuden poltto,Käännös huono,0,1,0.0,0.939521365
+2,Poro,"pintapalo, joka etenee hitaasti",Käännös OK,0,1,0.0,0.823038102
+3,Forest,"Maapaloja voi esiintyä, jos maaperä sisältää orgaanisia aineita (turve, raaka humus).",Käännös huono,1,1,100.0,1.289196
+4,Forest/BT,"Maapaloja voi esiintyä, jos maaperä sisältää orgaanisia aineita (turve, raaka humus).",Käännös huono,1,1,100.0,0.672294
+5,NDFST/BT+MC,"Maapaloja voi esiintyä, jos maaperä sisältää orgaanisia aineita (turve, raaka humus).",Käännös huono,1,1,100.0,0.591298
+6,NDFST/BT,"Maapaloja voi esiintyä, jos maaperä sisältää orgaanisia aineita (turve, raaka humus).",Käännös huono,1,1,100.0,0.555435
+7,NDFST,"Maapaloja voi esiintyä, jos maaperä sisältää orgaanisia aineita (turve, raaka humus).",Käännös huono,1,1,100.0,0.609179
+8,NDFST+MC,"Maapaloja voi esiintyä, jos maaperä sisältää orgaanisia aineita (turve, raaka humus).",Käännös huono,1,1,100.0,1.348132
+9,NDFST,"Puuston kerrostuminen, riittävän tiheä katoskerros, korkea tulen voimakkuus ja/tai riittävän tuuliset olosuhteet ovat tarpeen latvapalon syttymiseksi.",Käännös huono,1,1,100.0,1.066862
+10,Forest,"Puuston kerrostuminen, riittävän tiheä katoskerros, korkea tulen voimakkuus ja/tai riittävän tuuliset olosuhteet ovat tarpeen latvapalon syttymiseksi.",Käännös huono,1,1,100.0,1.709812
+11,NDFST+MC,"Puuston kerrostuminen, riittävän tiheä katoskerros, korkea tulen voimakkuus ja/tai riittävän tuuliset olosuhteet ovat tarpeen latvapalon syttymiseksi.",Käännös huono,1,1,100.0,1.859908
+12,Poro,itsenäinen latvapalo voi edetä eri nopeudella kuin alemmissa kerroksissa palava tuli,Käännös huono,0,1,0.0,1.292203605
+13,Forest,"Vähäisen katoksen ja matalan tuulen vuoksi passiivinen latvapalo ei leviä puiden latvustoissa, mutta tietyissä olosuhteissa se voi kehittyä aktiiviseksi latvapaloksi.",Käännös huono,2,2,100.0,4.129142
+14,Forest/BT,"Vähäisen katoksen ja matalan tuulen vuoksi passiivinen latvapalo ei leviä puiden latvustoissa, mutta tietyissä olosuhteissa se voi kehittyä aktiiviseksi latvapaloksi.",Käännös huono,2,2,100.0,3.10752
+15,NDFST/BT+MC,"Vähäisen katoksen ja matalan tuulen vuoksi passiivinen latvapalo ei leviä puiden latvustoissa, mutta tietyissä olosuhteissa se voi kehittyä aktiiviseksi latvapaloksi.",Käännös huono,2,2,100.0,6.070172
+16,NDFST/BT,"Vähäisen katoksen ja matalan tuulen vuoksi passiivinen latvapalo ei leviä puiden latvustoissa, mutta tietyissä olosuhteissa se voi kehittyä aktiiviseksi latvapaloksi.",Käännös huono,2,2,100.0,5.921704
+17,NDFST,"Vähäisen katoksen ja matalan tuulen vuoksi passiivinen latvapalo ei leviä puiden latvustoissa, mutta tietyissä olosuhteissa se voi kehittyä aktiiviseksi latvapaloksi.",Käännös huono,2,2,100.0,6.329161
+18,NDFST+MC,"Vähäisen katoksen ja matalan tuulen vuoksi passiivinen latvapalo ei leviä puiden latvustoissa, mutta tietyissä olosuhteissa se voi kehittyä aktiiviseksi latvapaloksi.",Käännös huono,2,2,100.0,7.592147
+19,Poro,"Talven jälkeen ruohikkopalot ovat yleisiä Suomessa keväällä, ennen kasvukauden alkua.",Käännös huono,0,1,0.0,1.216237588
+20,Poro,Turvepalo ei välttämättä kehity suopaloksi.,Rajoite väärin,0,2,0.0,0.943666482
+21,Forest,"turvetuotantoalueen palo, joka syttyy paikan pintakerroksessa, jossa turve palaa muutaman millimetrin kerroksessa ja muodostaa pinnalle pieniä kyteviä pisteitä",Käännös OK,1,1,100.0,2.672543
+22,Forest/BT,"turvetuotantoalueen palo, joka syttyy paikan pintakerroksessa, jossa turve palaa muutaman millimetrin kerroksessa ja muodostaa pinnalle pieniä kyteviä pisteitä",Käännös OK,1,1,100.0,1.125954
+23,NDFST/BT+MC,"turvetuotantoalueen palo, joka syttyy paikan pintakerroksessa, jossa turve palaa muutaman millimetrin kerroksessa ja muodostaa pinnalle pieniä kyteviä pisteitä",Käännös OK,1,1,100.0,1.184566
+24,NDFST/BT,"turvetuotantoalueen palo, joka syttyy paikan pintakerroksessa, jossa turve palaa muutaman millimetrin kerroksessa ja muodostaa pinnalle pieniä kyteviä pisteitä",Käännös OK,1,1,100.0,1.237986
+25,NDFST,"turvetuotantoalueen palo, joka syttyy paikan pintakerroksessa, jossa turve palaa muutaman millimetrin kerroksessa ja muodostaa pinnalle pieniä kyteviä pisteitä",Käännös OK,1,1,100.0,1.153619
+26,NDFST+MC,"turvetuotantoalueen palo, joka syttyy paikan pintakerroksessa, jossa turve palaa muutaman millimetrin kerroksessa ja muodostaa pinnalle pieniä kyteviä pisteitä",Käännös OK,1,1,100.0,2.111697
+27,Forest,Savun muodostuminen on runsasta ja aiheuttaa hiilimonoksidille altistumisen riskin.,Käännös OK,0,0,100.0,1.358273
+28,Forest/BT,Savun muodostuminen on runsasta ja aiheuttaa hiilimonoksidille altistumisen riskin.,Käännös OK,0,0,100.0,0.371548
+29,NDFST/BT+MC,Savun muodostuminen on runsasta ja aiheuttaa hiilimonoksidille altistumisen riskin.,Käännös OK,0,0,100.0,0.302724
+30,NDFST/BT,Savun muodostuminen on runsasta ja aiheuttaa hiilimonoksidille altistumisen riskin.,Käännös OK,0,0,100.0,0.310708
+31,NDFST,Savun muodostuminen on runsasta ja aiheuttaa hiilimonoksidille altistumisen riskin.,Käännös OK,0,0,100.0,0.298624
+32,NDFST+MC,Savun muodostuminen on runsasta ja aiheuttaa hiilimonoksidille altistumisen riskin.,Käännös OK,0,0,100.0,1.369981
+33,Baseline,Savun muodostuminen on runsasta ja aiheuttaa hiilimonoksidille altistumisen riskin.,Käännös OK,0,0,100.0,0.145252
+34,Poro,"Tuulenkaatojen korjuun jälkeen on tärkeää, että korjuualue jää siistiksi.",Käännös huono,0,0,100.0,1.285981184
+35,Poro,"Palokuormaan kuuluva rakenteellinen elementti, joka voi koostua eri metsän paloaineksista tietyllä korkeudella maanpinnan yläpuolella.",Käännös OK (tunnistus väärin),0,2,0.0,1.566857304
+36,Poro,"Latvapalo on todennäköisempi, jos sen välittäjäaineeksi valitaan latvusto.",Käännös huono,0,2,0.0,1.250825124
+37,Baseline,"Metsän polttoaineisiin kuuluvat esimerkiksi puut, maakasvillisuus, hakkuumurto, orgaaniset roskat, kuolleet puut ja maapolttoaine.",Käännös huono,0,2,0.0,0.230779
+38,Baseline,Maapolttoaine koostuu esimerkiksi turpeesta ja raakahumusta,Käännös huono,0,1,0.0,0.115806
+39,NDFST,Elävän palokasvustotyypin ominaisuudet määritellään pääasiassa puuston ja maakasvillisuuden perusteella.,Käännös huono,1,1,100.0,1.049767
+40,Forest,Elävän palokasvustotyypin ominaisuudet määritellään pääasiassa puuston ja maakasvillisuuden perusteella.,Käännös huono,1,1,100.0,0.990933
+41,NDFST+MC,Elävän palokasvustotyypin ominaisuudet määritellään pääasiassa puuston ja maakasvillisuuden perusteella.,Käännös huono,1,1,100.0,1.041722
+42,Forest,"Paloaineksen kosteuspitoisuus vaihtelee sääolosuhteiden mukaan ja vaikuttaa suuressa määrin palon syttymiseen, voimakkuuteen ja törmäykseen.",Käännös huono,1,1,100.0,0.930488
+43,Forest/BT,"Paloaineksen kosteuspitoisuus vaihtelee sääolosuhteiden mukaan ja vaikuttaa suuressa määrin palon syttymiseen, voimakkuuteen ja törmäykseen.",Käännös huono,1,1,100.0,1.0141
+44,NDFST/BT+MC,"Paloaineksen kosteuspitoisuus vaihtelee sääolosuhteiden mukaan ja vaikuttaa suuressa määrin palon syttymiseen, voimakkuuteen ja törmäykseen.",Käännös huono,1,1,100.0,1.057447
+45,NDFST/BT,"Paloaineksen kosteuspitoisuus vaihtelee sääolosuhteiden mukaan ja vaikuttaa suuressa määrin palon syttymiseen, voimakkuuteen ja törmäykseen.",Käännös huono,1,1,100.0,1.059378
+46,NDFST,"Paloaineksen kosteuspitoisuus vaihtelee sääolosuhteiden mukaan ja vaikuttaa suuressa määrin palon syttymiseen, voimakkuuteen ja törmäykseen.",Käännös huono,1,1,100.0,1.29352
+47,NDFST+MC,"Paloaineksen kosteuspitoisuus vaihtelee sääolosuhteiden mukaan ja vaikuttaa suuressa määrin palon syttymiseen, voimakkuuteen ja törmäykseen.",Käännös huono,1,1,100.0,1.148035
+48,NDFST,"Kuollut paloaines, joka koostuu edellisten kasvukausien kuivuneista ruohoista tai ruohomaisista kasveista",Käännös OK,1,1,100.0,1.123884
+49,Forest,"Kuollut paloaines, joka koostuu edellisten kasvukausien kuivuneista ruohoista tai ruohomaisista kasveista",Käännös OK,1,1,100.0,0.786453
+50,NDFST+MC,"Kuollut paloaines, joka koostuu edellisten kasvukausien kuivuneista ruohoista tai ruohomaisista kasveista",Käännös OK,1,1,100.0,1.279784
+51,NDFST,Kuloheinä kuivuu nopeasti ja syttyy helposti.,Käännös OK,0,1,0.0,0.552501
+52,Forest,Kuloheinä kuivuu nopeasti ja syttyy helposti.,Käännös OK,0,1,0.0,0.462765
+53,NDFST+MC,Kuloheinä kuivuu nopeasti ja syttyy helposti.,Käännös OK,0,1,0.0,0.671345
+54,Poro,Kuloheinä kuivuu nopeasti ja syttyy helposti.,Käännös OK,0,1,0.0,0.903991379
+55,NDFST,Elävän paloaineksen kosteuspitoisuus on yleensä suhteellisen korkea.,Käännös OK,1,1,100.0,0.708777
+56,Forest,Elävän paloaineksen kosteuspitoisuus on yleensä suhteellisen korkea.,Käännös OK,1,1,100.0,0.451731
+57,NDFST+MC,Elävän paloaineksen kosteuspitoisuus on yleensä suhteellisen korkea.,Käännös OK,1,1,100.0,5.949099
+58,NDFST/BT,Hienot paloainekset ovat yleensä halkaisijaltaan alle 6 mm.,Käännös OK,1,1,100.0,0.746094
+59,NDFST/BT+MC,Hienot paloainekset ovat yleensä halkaisijaltaan alle 6 mm.,Käännös OK,1,1,100.0,0.740192
+60,Forest/BT,Hienot paloainekset ovat yleensä halkaisijaltaan alle 6 mm.,Käännös OK,1,1,100.0,0.560409
+61,NDFST/BT,"Karkeita paloaineksia ovat esimerkiksi seisovat ja kaatuneet kuolleet puut, kannot ja suuret oksat.",Käännös OK,1,1,100.0,0.919726
+62,NDFST/BT+MC,"Karkeita paloaineksia ovat esimerkiksi seisovat ja kaatuneet kuolleet puut, kannot ja suuret oksat.",Käännös OK,1,1,100.0,0.965463
+63,Forest/BT,"Karkeita paloaineksia ovat esimerkiksi seisovat ja kaatuneet kuolleet puut, kannot ja suuret oksat.",Käännös OK,1,1,100.0,0.837882
+64,Baseline,"Metsäpalojen hallintaan kuuluu ajatus siitä, että jonkin verran tulta tarvitaan ja siitä on hyötyä ekosysteemille, kun taas metsäpalojen suojelussa keskitytään tulipalon poistamiseen kokonaan, mikäli mahdollista.",Käännös huono,0,2,0.0,0.244443
+65,Baseline,Metsäpalojen ehkäisyyn kuuluu esimerkiksi koulutus- ja valistustoimintaa sekä palovaroituksia ja -rajoituksia.,Käännös OK (tunnistus väärin),0,1,0.0,0.156303
+66,Baseline,Aiempina vuosina tähystystorneja käytettiin metsäpalojen seurantaan.,Käännös OK (tunnistus väärin),0,1,0.0,0.122764
+67,Poro,"Suunnitelma, joka tehdään osana palontorjuntatoimia ja jossa otetaan huomioon palon käyttäytyminen sekä ympäristöolosuhteet että käytettävissä olevat resurssit.",Käännös OK,0,0,100.0,1.601338188
+68,Poro,"Taktiikka, jossa tulipalon etenemistä ei pyritä estämään suoraan vaan paloa hallitaan ja rajoitetaan rakentamalla palomuureja.",Käännös OK (tunnistus väärin),0,2,0.0,1.610419051
+69,Poro,palonsammutustekniikka: palontorjunnassa käytettävät laitteet ja välineet,Käännös OK,0,0,100.0,1.132716287
+70,Forest,"Sammutuskalustoon kuuluvat pumput, letkut jne.",Käännös OK,1,1,100.0,0.437446
+71,Forest/BT,"Sammutuskalustoon kuuluvat pumput, letkut jne.",Käännös OK,1,1,100.0,0.627923
+72,NDFST/BT+MC,"Sammutuskalustoon kuuluvat pumput, letkut jne.",Käännös OK,1,1,100.0,0.732834
+73,NDFST/BT,"Sammutuskalustoon kuuluvat pumput, letkut jne.",Käännös OK,1,1,100.0,0.752514
+74,NDFST,"Sammutuskalustoon kuuluvat pumput, letkut jne.",Käännös OK,1,1,100.0,0.516626
+75,NDFST+MC,"Sammutuskalustoon kuuluvat pumput, letkut jne.",Käännös OK,1,1,100.0,0.596157
+76,Poro,Mop-up sisältää esimerkiksi palontorjunnan kannoissa ja muurahaispesissä.,Käännös huono,0,0,100.0,1.208036293
+77,NDFST/BT,"Epäsuoraa taktiikkaa käytetään yleensä silloin, kun suora taktiikka ei ole tehokasta, mahdollista tai turvallista, kuten esimerkiksi latvapaloissa. Suoraa ja epäsuoraa taktiikkaa käytetään usein rinnakkain.",Käännös OK,1,1,100.0,1.175013
+78,NDFST/BT+MC,"Epäsuoraa taktiikkaa käytetään yleensä silloin, kun suora taktiikka ei ole tehokasta, mahdollista tai turvallista, kuten esimerkiksi latvapaloissa. Suoraa ja epäsuoraa taktiikkaa käytetään usein rinnakkain.",Käännös OK,1,1,100.0,1.173505
+79,Forest/BT,"Epäsuoraa taktiikkaa käytetään yleensä silloin, kun suora taktiikka ei ole tehokasta, mahdollista tai turvallista, kuten esimerkiksi latvapaloissa. Suoraa ja epäsuoraa taktiikkaa käytetään usein rinnakkain.",Käännös OK,1,1,100.0,1.147864
+80,Forest,Suora taktiikka soveltuu parhaiten matalan intensiteetin tulipalojen sammuttamiseen.,Käännös OK,0,0,100.0,0.310542
+81,Forest/BT,Suora taktiikka soveltuu parhaiten matalan intensiteetin tulipalojen sammuttamiseen.,Käännös OK,0,0,100.0,0.375702
+82,NDFST/BT+MC,Suora taktiikka soveltuu parhaiten matalan intensiteetin tulipalojen sammuttamiseen.,Käännös OK,0,0,100.0,0.326849
+83,NDFST/BT,Suora taktiikka soveltuu parhaiten matalan intensiteetin tulipalojen sammuttamiseen.,Käännös OK,0,0,100.0,0.312232
+84,NDFST,Suora taktiikka soveltuu parhaiten matalan intensiteetin tulipalojen sammuttamiseen.,Käännös OK,0,0,100.0,0.335944
+85,NDFST+MC,Suora taktiikka soveltuu parhaiten matalan intensiteetin tulipalojen sammuttamiseen.,Käännös OK,0,0,100.0,0.337573
+86,Baseline,Suora taktiikka soveltuu parhaiten matalan intensiteetin tulipalojen sammuttamiseen.,Käännös OK,0,0,100.0,0.134367
+87,Poro,"Tulirintaman yleisen kapenemisen lisäksi voidaan käyttää myös sivusta sammuttamista, jolla pyritään ohjaamaan paloa siten, että se ei etene riskialttiille alueille ja suuntautuu paikkaan, jossa sen tukahduttaminen on helpompaa.",Käännös OK,0,2,0.0,2.242009594
+88,Baseline,"palonrajoitustekniikka, jonka tavoitteena on vähentää polttoainekuormitusta ja erityisesti hienojen polttoaineiden määrää",Käännös huono,0,2,0.0,0.123659
+89,NDFST,"Tukahduttamisessa esimerkiksi polttoaineet voidaan eristää ilmasta palamattomalla aineella, kuten hiekalla.",Käännös OK,0,1,0.0,0.662295
+90,Forest,"Tukahduttamisessa esimerkiksi polttoaineet voidaan eristää ilmasta palamattomalla aineella, kuten hiekalla.",Käännös OK,0,1,0.0,0.59281
+91,NDFST+MC,"Tukahduttamisessa esimerkiksi polttoaineet voidaan eristää ilmasta palamattomalla aineella, kuten hiekalla.",Käännös OK,0,1,0.0,0.664626
+92,Baseline,"Tukahduttamisessa esimerkiksi polttoaineet voidaan eristää ilmasta palamattomalla aineella, kuten hiekalla.",Käännös OK,0,1,0.0,0.178527
+93,Forest,Vesisammutus on yleisin jäähdyttämisen muoto.,Käännös OK,2,2,100.0,0.596398
+94,Forest/BT,Vesisammutus on yleisin jäähdyttämisen muoto.,Käännös OK,2,2,100.0,0.654591
+95,NDFST/BT+MC,Vesisammutus on yleisin jäähdyttämisen muoto.,Käännös OK,2,2,100.0,0.978705
+96,NDFST/BT,Vesisammutus on yleisin jäähdyttämisen muoto.,Käännös OK,2,2,100.0,0.973128
+97,NDFST,Vesisammutus on yleisin jäähdyttämisen muoto.,Käännös OK,2,2,100.0,0.987202
+98,NDFST+MC,Vesisammutus on yleisin jäähdyttämisen muoto.,Käännös OK,2,2,100.0,0.983012
+99,Baseline,Tärkeimmät ulosampumistekniikat ovat taka-ampuminen ja loppuunpalaminen.,Käännös huono,0,1,0.0,0.147908
+100,Baseline,Nälkiintymistä käytetään esimerkiksi palolinjojen ja palokujien teon yhteydessä.,Käännös huono,0,3,0.0,0.124245
+101,NDFST/BT,Vastatulta käytetään pääasiassa suurten kulotusten ja latvapalojen torjumiseen sekä maastopaloihin.,Rajoite väärin,4,4,100.0,3.454101
+102,NDFST/BT+MC,Vastatulta käytetään pääasiassa suurten kulotusten ja latvapalojen torjumiseen sekä maastopaloihin.,Rajoite väärin,4,4,100.0,3.542568
+103,Forest/BT,Vastatulta käytetään pääasiassa suurten kulotusten ja latvapalojen torjumiseen sekä maastopaloihin.,Rajoite väärin,4,4,100.0,1.780774
+104,NDFST,Polttamista käytetään yleisesti kulotuksessa.,Käännös huono,1,1,100.0,0.603251
+105,Forest,Polttamista käytetään yleisesti kulotuksessa.,Käännös huono,1,1,100.0,0.392095
+106,NDFST+MC,Polttamista käytetään yleisesti kulotuksessa.,Käännös huono,1,1,100.0,0.516147
+107,Baseline,"luonnon paloeste tai paloeste, joka syntyy alueen raivaamisesta ja sen tekemisestä palamattomaksi tai näiden yhdistelmästä metsäpalon leviämisen estämiseksi",Käännös huono,0,3,0.0,0.221788
+108,Baseline,Palokatkot tehdään usein vettä levittämällä.,Käännös huono,0,1,0.0,0.072443
+109,Baseline,Palolinja on yleensä riittävä este maan tai pintatulen tukahduttamiseksi.,Käännös huono,0,2,0.0,0.13652
+110,Poro,Palokäytäviä ja palokujia tehdään raivaamalla.,Käännös huono,0,3,0.0,1.062282484
+111,NDFST,"Metsäpalojärjestelmä kuvaa tulen roolia tietyllä alueella tietyllä aikavälillä ja tiivistää lähes kaikki metsäpaloihin liittyvät muuttujat: metsäpalon vaikuttavuus ja siihen vaikuttavat tekijät, metsäpalojen toistuvuus, metsäpalon voimakkuuden, metsäpaloregiiminanssin, tulen koon, syttymisajankohdan ja syttymissyyn, säännöllisyyden, vaihtelun jne.",Rajoite väärin,6,0,100.0,68.049852
+112,Forest,metsäpaloalueista hyötyviä lajeja,Käännös OK,0,1,0.0,2.888241
+113,Forest/BT,metsäpaloalueista hyötyviä lajeja,Käännös OK,0,1,0.0,4.759903
+114,NDFST/BT+MC,metsäpaloalueista hyötyviä lajeja,Käännös OK,0,1,0.0,0.312237
+115,NDFST/BT,metsäpaloalueista hyötyviä lajeja,Käännös OK,0,1,0.0,0.315049
+116,NDFST,metsäpaloalueista hyötyviä lajeja,Käännös OK,0,1,0.0,0.312358
+117,NDFST+MC,metsäpaloalueista hyötyviä lajeja,Käännös OK,0,1,0.0,0.334736
+118,Baseline,metsäpaloalueista hyötyviä lajeja,Käännös OK,0,1,0.0,0.071662
+119,Poro,"Palovaikutusympäristölle on ominaista puiden ja muun kasvillisuuden näkyvät muutokset, jotka aiheutuvat tulipalosta.",Käännös OK,0,0,100.0,1.370668553
+120,Forest,Metsäpalon voimakkuus määritellään energian tai lämmön määränä pinta-alaa ja aikaa kohti.,Käännös OK,0,1,0.0,0.576765
+121,Forest/BT,Metsäpalon voimakkuus määritellään energian tai lämmön määränä pinta-alaa ja aikaa kohti.,Käännös OK,0,1,0.0,10.528957
+122,NDFST/BT+MC,Metsäpalon voimakkuus määritellään energian tai lämmön määränä pinta-alaa ja aikaa kohti.,Käännös OK,0,1,0.0,0.70043
+123,NDFST/BT,Metsäpalon voimakkuus määritellään energian tai lämmön määränä pinta-alaa ja aikaa kohti.,Käännös OK,0,1,0.0,0.689725
+124,NDFST,Metsäpalon voimakkuus määritellään energian tai lämmön määränä pinta-alaa ja aikaa kohti.,Käännös OK,0,1,0.0,0.674038
+125,NDFST+MC,Metsäpalon voimakkuus määritellään energian tai lämmön määränä pinta-alaa ja aikaa kohti.,Käännös OK,0,1,0.0,0.701977
+126,Baseline,Metsäpalon voimakkuus määritellään energian tai lämmön määränä pinta-alaa ja aikaa kohti.,Käännös OK,0,1,0.0,0.14999
+127,Forest/BT,"alue, joka kasvillisuuden, maaperän kosteusolosuhteiden tai muiden tekijöiden vuoksi on toistuvasti jäänyt palamatta metsäpalohistoriassaan, tai alue, joka jää palamatta suuressa metsäpalohistoriassa",Rajoite väärin,2,2,100.0,24.801392
+128,Forest,"alue, joka kasvillisuuden, maaperän kosteusolosuhteiden tai muiden tekijöiden vuoksi on toistuvasti jäänyt palamatta metsäpalohistoriassaan, tai alue, joka jää palamatta suuressa metsäpalohistoriassa",Rajoite väärin,2,2,100.0,1.816286
+129,Forest,"Palosääindeksin arvo vaihtelee välillä 1,0 ja 6,0.",Käännös huono,1,1,100.0,0.443876
+130,Forest/BT,"Palosääindeksin arvo vaihtelee välillä 1,0 ja 6,0.",Käännös huono,1,1,100.0,2.169453
+131,NDFST/BT+MC,"Palosääindeksin arvo vaihtelee välillä 1,0 ja 6,0.",Käännös huono,1,1,100.0,0.542696
+132,NDFST/BT,"Palosääindeksin arvo vaihtelee välillä 1,0 ja 6,0.",Käännös huono,1,1,100.0,0.538983
+133,NDFST,"Palosääindeksin arvo vaihtelee välillä 1,0 ja 6,0.",Käännös huono,1,1,100.0,0.54988
+134,NDFST+MC,"Palosääindeksin arvo vaihtelee välillä 1,0 ja 6,0.",Käännös huono,1,1,100.0,0.540564
+135,Forest,Indeksiä käytetään perustana metsäpalovaroituksille.,Käännös OK,1,1,100.0,0.387449
+136,Forest/BT,Indeksiä käytetään perustana metsäpalovaroituksille.,Käännös OK,1,1,100.0,0.476859
+137,NDFST/BT+MC,Indeksiä käytetään perustana metsäpalovaroituksille.,Käännös OK,1,1,100.0,0.62495
+138,NDFST/BT,Indeksiä käytetään perustana metsäpalovaroituksille.,Käännös OK,1,1,100.0,0.600493
+139,NDFST,Indeksiä käytetään perustana metsäpalovaroituksille.,Käännös OK,1,1,100.0,0.637099
+140,NDFST+MC,Indeksiä käytetään perustana metsäpalovaroituksille.,Käännös OK,1,1,100.0,0.596577
+141,Poro,"Alueella ei saa palaa edes kerran paluuvälin aikana, mutta osa alueesta voi palaa useita kertoja.",Käännös huono,0,0,100.0,1.405015664
+142,Forest,Metsäpalojen toistuvuus voidaan ilmaista lukuna tai siitä laskettuna keskimääräisenä palovälinä (palo-paluuväli).,Käännös OK,1,1,100.0,0.793269
+143,Forest/BT,Metsäpalojen toistuvuus voidaan ilmaista lukuna tai siitä laskettuna keskimääräisenä palovälinä (palo-paluuväli).,Käännös OK,1,1,100.0,1.000495
+144,NDFST/BT+MC,Metsäpalojen toistuvuus voidaan ilmaista lukuna tai siitä laskettuna keskimääräisenä palovälinä (palo-paluuväli).,Käännös OK,1,1,100.0,0.985421
+145,NDFST/BT,Metsäpalojen toistuvuus voidaan ilmaista lukuna tai siitä laskettuna keskimääräisenä palovälinä (palo-paluuväli).,Käännös OK,1,1,100.0,0.952239
+146,NDFST,Metsäpalojen toistuvuus voidaan ilmaista lukuna tai siitä laskettuna keskimääräisenä palovälinä (palo-paluuväli).,Käännös OK,1,1,100.0,1.069963
+147,NDFST+MC,Metsäpalojen toistuvuus voidaan ilmaista lukuna tai siitä laskettuna keskimääräisenä palovälinä (palo-paluuväli).,Käännös OK,1,1,100.0,1.017202
+148,Forest,Tulipalon pää on usein arka.,Käännös huono,0,0,100.0,0.249007
+149,Forest/BT,Tulipalon pää on usein arka.,Käännös huono,0,0,100.0,0.276318
+150,NDFST/BT+MC,Tulipalon pää on usein arka.,Käännös huono,0,0,100.0,0.253243
+151,NDFST/BT,Tulipalon pää on usein arka.,Käännös huono,0,0,100.0,0.237299
+152,NDFST,Tulipalon pää on usein arka.,Käännös huono,0,0,100.0,0.255026
+153,NDFST+MC,Tulipalon pää on usein arka.,Käännös huono,0,0,100.0,0.260107
+154,Baseline,Tulipalon pää on usein arka.,Käännös huono,0,0,100.0,0.077757
+155,Poro,"palon leviämisen estämiseen tähtäävä menetelmä, jolla pyritään hyökkäämään paloa vastaan sen sivuilta.",Käännös OK,0,0,100.0,1.324319325
+156,Forest,"Ne syttyvät helposti vasta, kun ne ovat kuivuneet esimerkiksi lähestyvän tulirintaman kuumuuden vaikutuksesta.",Käännös OK,0,1,0.0,0.609911
+157,Forest/BT,"Ne syttyvät helposti vasta, kun ne ovat kuivuneet esimerkiksi lähestyvän tulirintaman kuumuuden vaikutuksesta.",Käännös OK,0,1,0.0,0.672042
+158,NDFST/BT+MC,"Ne syttyvät helposti vasta, kun ne ovat kuivuneet esimerkiksi lähestyvän tulirintaman kuumuuden vaikutuksesta.",Käännös OK,0,1,0.0,0.757542
+159,NDFST/BT,"Ne syttyvät helposti vasta, kun ne ovat kuivuneet esimerkiksi lähestyvän tulirintaman kuumuuden vaikutuksesta.",Käännös OK,0,1,0.0,0.71877
+160,NDFST,"Ne syttyvät helposti vasta, kun ne ovat kuivuneet esimerkiksi lähestyvän tulirintaman kuumuuden vaikutuksesta.",Käännös OK,0,1,0.0,0.772235
+161,NDFST+MC,"Ne syttyvät helposti vasta, kun ne ovat kuivuneet esimerkiksi lähestyvän tulirintaman kuumuuden vaikutuksesta.",Käännös OK,0,1,0.0,0.749384
+162,Baseline,"Ne syttyvät helposti vasta, kun ne ovat kuivuneet esimerkiksi lähestyvän tulirintaman kuumuuden vaikutuksesta.",Käännös OK,0,1,0.0,0.154406
+163,NDFST+MC,"poikkeuksellisen voimakkaat lämpimät ilmavirrat, jotka nousevat metsäpaloissa, kuljettavat metsäpolttoaineita ja palavia kaasuja mukanaan ja lisäävät kruunupalojen ja pistepalojen riskiä",Käännös huono,0,4,0.0,15.645034
+164,Baseline,"poikkeuksellisen voimakkaat lämpimät ilmavirrat, jotka nousevat metsäpaloissa, kuljettavat metsäpolttoaineita ja palavia kaasuja mukanaan ja lisäävät kruunupalojen ja pistepalojen riskiä",Käännös huono,0,4,0.0,0.248376
+165,Baseline,Metsäpalon synnyttämät kuumat nousevat ilmavirrat voivat parveilla palomerkkejä pitkiä matkoja.,Käännös huono,0,1,0.0,0.168578
+166,Baseline,Käytännössä määrätty polttaminen on useimmiten eri menetelmien yhdistelmä.,Käännös huono,0,1,0.0,0.087378
+167,Forest,"Nykyään metsänhoidollisella kulotuksella pyritään myös luonnonhoitotavoitteisiin, ja retentiopuut saavat polttaa.",Käännös huono,1,1,100.0,0.746718
+168,Forest/BT,"Nykyään metsänhoidollisella kulotuksella pyritään myös luonnonhoitotavoitteisiin, ja retentiopuut saavat polttaa.",Käännös huono,1,1,100.0,0.844533
+169,NDFST/BT+MC,"Nykyään metsänhoidollisella kulotuksella pyritään myös luonnonhoitotavoitteisiin, ja retentiopuut saavat polttaa.",Käännös huono,1,1,100.0,1.027688
+170,NDFST/BT,"Nykyään metsänhoidollisella kulotuksella pyritään myös luonnonhoitotavoitteisiin, ja retentiopuut saavat polttaa.",Käännös huono,1,1,100.0,1.00183
+171,NDFST,"Nykyään metsänhoidollisella kulotuksella pyritään myös luonnonhoitotavoitteisiin, ja retentiopuut saavat polttaa.",Käännös huono,1,1,100.0,0.932295
+172,NDFST+MC,"Nykyään metsänhoidollisella kulotuksella pyritään myös luonnonhoitotavoitteisiin, ja retentiopuut saavat polttaa.",Käännös huono,1,1,100.0,1.003107
+173,Baseline,"biodiversiteetin polttaminen, joka on suurempi kuin retentiopuiden polttaminen ja jota harjoitetaan metsäisellä metsäalueella",Käännös huono,0,2,0.0,0.166175
+174,Baseline,"Entisöintipolttojen tavoitteena on luoda paloympäristö, monipuolistaa metsärakennetta ja lisätä lahopuun määrää.",Käännös OK (tunnistus väärin),0,1,0.0,0.159849
+175,Baseline,"Köyhyydenpolttoa käytetään luontaisesti paloalttiiden ja usein palaneiden metsäkohteiden, kuten harjujen, hoitoon.",Käännös huono,0,1,0.0,0.183349
+176,Poro,Perinneympäristön hoitokulotuksen tavoitteet ja toteutusmenetelmät vaihtelevat.,Käännös OK,0,1,0.0,1.094256821
+177,NDFST,Laikkukulotuksella hallitaan tulen voimakkuutta vähentämällä palamisaluetta yksi kerrallaan.,Käännös OK,1,1,100.0,0.900193
+178,Forest,Laikkukulotuksella hallitaan tulen voimakkuutta vähentämällä palamisaluetta yksi kerrallaan.,Käännös OK,1,1,100.0,0.757111
+179,NDFST+MC,Laikkukulotuksella hallitaan tulen voimakkuutta vähentämällä palamisaluetta yksi kerrallaan.,Käännös OK,1,1,100.0,0.907328
+180,NDFST/BT,"Toisin kuin sivutulitekniikka, chevron-sytytyslinjat ovat ei-rinnakkaisia.",Käännös huono,1,1,100.0,1.015301
+181,NDFST/BT+MC,"Toisin kuin sivutulitekniikka, chevron-sytytyslinjat ovat ei-rinnakkaisia.",Käännös huono,1,1,100.0,1.01453
+182,Forest/BT,"Toisin kuin sivutulitekniikka, chevron-sytytyslinjat ovat ei-rinnakkaisia.",Käännös huono,1,1,100.0,0.930802
+183,NDFST,"Tulipalon sammuttamista käytetään useimmiten, kun aloitetaan määrätty kulotus.",Käännös huono,1,1,100.0,0.540935
+184,Forest,"Tulipalon sammuttamista käytetään useimmiten, kun aloitetaan määrätty kulotus.",Käännös huono,1,1,100.0,0.403367
+185,NDFST+MC,"Tulipalon sammuttamista käytetään useimmiten, kun aloitetaan määrätty kulotus.",Käännös huono,1,1,100.0,0.556249
+186,Poro,Chevron-menetelmällä porataan erityisesti mäkisillä alueilla.,Käännös huono,0,0,100.0,1.052018316
+187,NDFST,Keski- ja pyöröammunta estää tulen voimakkuuden hallitsemattoman lisääntymisen säätelemällä sisäkkäisten sytytyslinjojen menetelmissä.,Rajoite väärin,1,1,100.0,2.370341
+188,Forest,Keski- ja pyöröammunta estää tulen voimakkuuden hallitsemattoman lisääntymisen säätelemällä sisäkkäisten sytytyslinjojen menetelmissä.,Rajoite väärin,1,1,100.0,1.889832
+189,NDFST+MC,Keski- ja pyöröammunta estää tulen voimakkuuden hallitsemattoman lisääntymisen säätelemällä sisäkkäisten sytytyslinjojen menetelmissä.,Rajoite väärin,1,1,100.0,2.309175
+190,Poro,Hätäkeskukselle ilmoitetaan palonvaarasta latvapalo-indeksin perusteella.,Käännös OK,0,1,0.0,1.169761213
+191,Poro,Tulen voimakkuutta voidaan arvioida esimerkiksi liekinkorkeuden perusteella.,Käännös OK,0,1,0.0,1.055097958
+192,Baseline,"Jos liekit palavat 90 asteen kulmassa maanpintaan nähden, liekin pituus vastaa liekin korkeutta, muuten liekin pituus on liekin korkeutta suurempi.",Käännös OK (tunnistus väärin),0,4,0.0,0.267898
+193,Poro,"Korkea riski johtaa ruohikkopalovaroituksen antamiseen, jolloin avotulen teko on kielletty.",Käännös OK,0,1,0.0,1.332691494
+194,NDFST/BT,Ruohikkopaloindeksiä käytetään ennustamaan keväällä kuloheinäpalon suurta riskiä.,Käännös OK,2,2,100.0,1.32805
+195,NDFST/BT+MC,Ruohikkopaloindeksiä käytetään ennustamaan keväällä kuloheinäpalon suurta riskiä.,Käännös OK,2,2,100.0,1.304647
+196,Forest/BT,Ruohikkopaloindeksiä käytetään ennustamaan keväällä kuloheinäpalon suurta riskiä.,Käännös OK,2,2,100.0,0.984043
+197,Forest,Luonnon metsäpalon syy voi olla esimerkiksi salama tai tulivuorenpurkaus.,Käännös OK,1,1,100.0,0.438798
+198,Forest/BT,Luonnon metsäpalon syy voi olla esimerkiksi salama tai tulivuorenpurkaus.,Käännös OK,1,1,100.0,0.496197
+199,NDFST/BT+MC,Luonnon metsäpalon syy voi olla esimerkiksi salama tai tulivuorenpurkaus.,Käännös OK,1,1,100.0,0.52961
+200,NDFST/BT,Luonnon metsäpalon syy voi olla esimerkiksi salama tai tulivuorenpurkaus.,Käännös OK,1,1,100.0,0.514726
+201,NDFST,Luonnon metsäpalon syy voi olla esimerkiksi salama tai tulivuorenpurkaus.,Käännös OK,1,1,100.0,0.514682
+202,NDFST+MC,Luonnon metsäpalon syy voi olla esimerkiksi salama tai tulivuorenpurkaus.,Käännös OK,1,1,100.0,0.522229
+203,Poro,Suomessa hosalla tarkoitetaan yleensä märkää kuusen oksaa.,Käännös OK,0,1,0.0,1.020821782
+204,Poro,"Maapalo on paloa, jossa tuli kytee maanpinnan alla.",Käännös huono,0,1,0.0,1.132350159
+205,Poro,Suomessa palokorot muodostuvat yleensä mäntyihin.,Käännös OK,0,1,0.0,1.018956966
+206,Poro,"Metsäpalon todennäköisyys, joka johtuu syttymislähteiden, palon mahdollisten syiden sekä sääolosuhteiden yhteisvaikutuksesta.",Käännös huono,0,1,0.0,1.450800469
+207,Forest,Tulimyrsky luo myös suotuisat olosuhteet tulipyörteille.,Käännös OK,0,2,0.0,0.484582
+208,Poro,Tulimyrsky luo myös suotuisat olosuhteet tulipyörteille.,Käännös OK,0,2,0.0,1.056611447
+209,Forest/BT,Tulimyrsky luo myös suotuisat olosuhteet tulipyörteille.,Käännös OK,0,2,0.0,0.552101
+210,NDFST/BT+MC,Tulimyrsky luo myös suotuisat olosuhteet tulipyörteille.,Käännös OK,0,2,0.0,0.740493
+211,NDFST/BT,Tulimyrsky luo myös suotuisat olosuhteet tulipyörteille.,Käännös OK,0,2,0.0,0.719298
+212,NDFST,Tulimyrsky luo myös suotuisat olosuhteet tulipyörteille.,Käännös OK,0,2,0.0,0.739187
+213,NDFST+MC,Tulimyrsky luo myös suotuisat olosuhteet tulipyörteille.,Käännös OK,0,2,0.0,0.729936
+214,Baseline,Tulimyrsky luo myös suotuisat olosuhteet tulipyörteille.,Käännös OK,0,2,0.0,0.102789
+215,Baseline,Meikki-ilma voimistuu myrskyn nopeuksiin voimakkaan konvektion vaikutuksesta,Käännös huono,0,1,0.0,0.135806
+216,Baseline,"ilmoitus määrätyn palon johtamisesta, jonka määrätty palava organisaatio on tehnyt pelastuslaitokselle",Käännös huono,0,2,0.0,0.111946
+217,Forest/BT,Lähes poikkeuksetta määrätty poltin ja kulotuksen johtaja ovat kulotuksen vastuuhenkilö.,Käännös huono,2,2,100.0,2.700318
+218,Forest/BT,Määrätyn kulotuksen turvallisuussuunnitelmaan voivat kuulua esimerkiksi pelastuslaitoksen vaatimat hätäreitit ja kulotuksen turvallisuussuunnitelma.,Rajoite väärin,2,2,100.0,1.468404
+219,Baseline,"Metsäpalo, ruohopalo, suopalo ja turvepalo ovat esimerkkejä metsäpaloista",Käännös huono,0,5,0.0,0.189681
+220,Forest,maan ja/tai yrttikerroksen polttoaineita polttava metsäpalo,Käännös huono,0,1,0.0,1.277694
+221,Forest/BT,maan ja/tai yrttikerroksen polttoaineita polttava metsäpalo,Käännös huono,0,1,0.0,0.54799
+222,NDFST/BT+MC,maan ja/tai yrttikerroksen polttoaineita polttava metsäpalo,Käännös huono,0,1,0.0,0.45913
+223,NDFST/BT,maan ja/tai yrttikerroksen polttoaineita polttava metsäpalo,Käännös huono,0,1,0.0,0.449775
+224,NDFST,maan ja/tai yrttikerroksen polttoaineita polttava metsäpalo,Käännös huono,0,1,0.0,0.427024
+225,NDFST+MC,maan ja/tai yrttikerroksen polttoaineita polttava metsäpalo,Käännös huono,0,1,0.0,1.296987
+226,Baseline,maan ja/tai yrttikerroksen polttoaineita polttava metsäpalo,Käännös huono,0,1,0.0,0.124609
+227,Forest,"Pintapalo, joka etenee hitaasti",Käännös OK,1,1,100.0,1.117293
+228,Forest/BT,"Pintapalo, joka etenee hitaasti",Käännös OK,1,1,100.0,0.291089
+229,NDFST/BT+MC,"Pintapalo, joka etenee hitaasti",Käännös OK,1,1,100.0,0.285554
+230,NDFST/BT,"Pintapalo, joka etenee hitaasti",Käännös OK,1,1,100.0,0.3156
+231,NDFST,"Pintapalo, joka etenee hitaasti",Käännös OK,1,1,100.0,0.331079
+232,NDFST+MC,"Pintapalo, joka etenee hitaasti",Käännös OK,1,1,100.0,1.294404
+233,Poro,"Maapalo voi syttyä, jos maassa on orgaanisia aineita (turvetta tai raakaa humusta).",Käännös huono,0,1,0.0,1.40731676
+234,Poro,"Stratifiointi, tiheä latvuskerros ja korkea paloteho ja/tai riittävän tuuliset olosuhteet ovat edellytyksiä sille, että puustorakenteessa tapahtuu latvapalo.",Käännös huono,0,1,0.0,1.995430511
+235,Forest,Itsenäinen latvapalo voi edetä eri nopeudella kuin alemmissa polttoainekerroksissa palava tulipalo,Käännös huono,1,1,100.0,1.613935
+236,Forest/BT,Itsenäinen latvapalo voi edetä eri nopeudella kuin alemmissa polttoainekerroksissa palava tulipalo,Käännös huono,1,1,100.0,0.99448
+237,NDFST/BT+MC,Itsenäinen latvapalo voi edetä eri nopeudella kuin alemmissa polttoainekerroksissa palava tulipalo,Käännös huono,1,1,100.0,1.193405
+238,NDFST/BT,Itsenäinen latvapalo voi edetä eri nopeudella kuin alemmissa polttoainekerroksissa palava tulipalo,Käännös huono,1,1,100.0,1.102178
+239,NDFST,Itsenäinen latvapalo voi edetä eri nopeudella kuin alemmissa polttoainekerroksissa palava tulipalo,Käännös huono,1,1,100.0,1.069841
+240,NDFST+MC,Itsenäinen latvapalo voi edetä eri nopeudella kuin alemmissa polttoainekerroksissa palava tulipalo,Käännös huono,1,1,100.0,2.043346
+241,Poro,"Koska puusto on harvaa ja tuuli heikkoa, latvapalo ei leviä puiden latvuksiin vaan tietyissä olosuhteissa sillä voi olla potentiaalia kehittyä aktiiviseksi latvapaloksi.",Käännös huono,0,2,0.0,1.924538495
+242,Forest,"Suomessa ruohikkopalot ovat yleisimpiä keväällä, ennen kasvukauden alkua.",Käännös OK,1,1,100.0,1.467551
+243,Forest/BT,"Suomessa ruohikkopalot ovat yleisimpiä keväällä, ennen kasvukauden alkua.",Käännös OK,1,1,100.0,0.496155
+244,NDFST/BT+MC,"Suomessa ruohikkopalot ovat yleisimpiä keväällä, ennen kasvukauden alkua.",Käännös OK,1,1,100.0,0.500689
+245,NDFST/BT,"Suomessa ruohikkopalot ovat yleisimpiä keväällä, ennen kasvukauden alkua.",Käännös OK,1,1,100.0,0.497065
+246,NDFST,"Suomessa ruohikkopalot ovat yleisimpiä keväällä, ennen kasvukauden alkua.",Käännös OK,1,1,100.0,0.675417
+247,NDFST+MC,"Suomessa ruohikkopalot ovat yleisimpiä keväällä, ennen kasvukauden alkua.",Käännös OK,1,1,100.0,1.400488
+248,Baseline,Turvemaapalo ei välttämättä kehity turvepaloksi.,Käännös huono,0,2,0.0,0.1058
+249,Poro,"Turvetuotantoalueen palo, joka syttyy pintakerroksessa ja jossa turve palaa muutaman millimetrin paksuisena kerroksena muodostaen pinnalle pieniä kytöpesäkkeitä.",Käännös OK,0,1,0.0,1.881904152
+250,Poro,Tupakansavua muodostuu runsaasti ja se aiheuttaa hiilimonoksidille altistumisen riskin.,Käännös huono,0,0,100.0,1.246664859
+251,Forest,Polttoainekerroksiin kuuluvat kaikki kasvillisuuskerrokset ja maakerros,Käännös huono,0,0,100.0,0.277256
+252,Forest/BT,Polttoainekerroksiin kuuluvat kaikki kasvillisuuskerrokset ja maakerros,Käännös huono,0,0,100.0,0.487539
+253,NDFST/BT+MC,Polttoainekerroksiin kuuluvat kaikki kasvillisuuskerrokset ja maakerros,Käännös huono,0,0,100.0,0.251106
+254,NDFST/BT,Polttoainekerroksiin kuuluvat kaikki kasvillisuuskerrokset ja maakerros,Käännös huono,0,0,100.0,0.240356
+255,NDFST,Polttoainekerroksiin kuuluvat kaikki kasvillisuuskerrokset ja maakerros,Käännös huono,0,0,100.0,0.276743
+256,NDFST+MC,Polttoainekerroksiin kuuluvat kaikki kasvillisuuskerrokset ja maakerros,Käännös huono,0,0,100.0,0.917395
+257,Baseline,Polttoainekerroksiin kuuluvat kaikki kasvillisuuskerrokset ja maakerros,Käännös huono,0,0,100.0,0.092656
+258,Baseline,"polttoaineen kuormituksen rakenneosa, joka voi koostua eri metsäpolttoaineista, jotka sijaitsevat tietyllä korkeudella maanpinnasta",Käännös huono,0,2,0.0,0.192265
+259,NDFST/BT,Välittäjäaines lisää latvapalon riskiä.,Käännös OK,2,2,100.0,1.249908
+260,NDFST/BT+MC,Välittäjäaines lisää latvapalon riskiä.,Käännös OK,2,2,100.0,1.451958
+261,Forest/BT,Välittäjäaines lisää latvapalon riskiä.,Käännös OK,2,2,100.0,0.933393
+262,Poro,"Metsän paloainekseen kuuluu muun muassa puita, maapohjan kasvillisuutta sekä hakkuujätteitä ja orgaanista ainesta. Lisäksi siihen kuuluvat kuolleet puut ja maan paloaines eli esimerkiksi turvekerros tai sen alla oleva kivennäismaa.",Käännös huono,0,2,0.0,2.35099795
+263,Poro,Maan paloaineksia ovat esimerkiksi turve ja raaka humus.,Käännös huono,0,1,0.0,1.094760646
+264,Poro,Palokasvustotyypin ominaisuudet määritellään pääasiassa puuston ja aluskasvillisuuden perusteella.,Käännös OK,0,1,0.0,1.335055537
+265,Baseline,"Polttoaineen kosteuspitoisuus vaihtelee sääolosuhteiden mukaan ja vaikuttaa suuressa määrin palon syttymiseen, voimakkuuteen ja törmäykseen.",Käännös huono,0,1,0.0,0.185438
+266,Poro,"kuollutta paloainesta, joka koostuu edellisen kasvukauden kuivuneista ruohoista tai ruohoisista kasveista",Käännös huono,0,1,0.0,1.367889665
+267,NDFST/BT,Kuloheiniäinen kuivuu nopeasti ja syttyy helposti.,Käännös huono,1,1,100.0,0.617392
+268,NDFST/BT+MC,Kuloheiniäinen kuivuu nopeasti ja syttyy helposti.,Käännös huono,1,1,100.0,0.620303
+269,Forest/BT,Kuloheiniäinen kuivuu nopeasti ja syttyy helposti.,Käännös huono,1,1,100.0,0.63737
+270,Baseline,Elävien polttoaineiden kosteuspitoisuus on yleensä suhteellisen korkea.,Käännös huono,0,1,0.0,0.091961
+271,Baseline,Hienot polttoaineet ovat yleensä halkaisijaltaan alle 6 mm.,Käännös huono,0,1,0.0,0.107528
+272,Poro,"Raskaita polttoaineita ovat esimerkiksi maassa ja kaatuneena olevat kuolleet puut, kannot sekä suuret oksat.",Käännös huono,0,1,0.0,1.372051674
+273,Poro,"Metsäpalontorjuntaan kuuluu ajatus, että tietty määrä tulipaloja on tarpeen ja hyödyllistä ekosysteemille. Metsäpalojen torjunnassa keskitytään poistamaan tulipalo kokonaan mahdollisuuksien mukaan.",Rajoite väärin,0,2,0.0,1.846081238
+274,Forest,Metsäpalojen ennaltaehkäisyyn kuuluu esimerkiksi koulutus- ja valistustoimintaa sekä palovaroituksia ja -rajoituksia.,Käännös OK,1,1,100.0,0.681366
+275,Forest/BT,Metsäpalojen ennaltaehkäisyyn kuuluu esimerkiksi koulutus- ja valistustoimintaa sekä palovaroituksia ja -rajoituksia.,Käännös OK,1,1,100.0,0.726619
+276,NDFST/BT+MC,Metsäpalojen ennaltaehkäisyyn kuuluu esimerkiksi koulutus- ja valistustoimintaa sekä palovaroituksia ja -rajoituksia.,Käännös OK,1,1,100.0,0.82533
+277,NDFST/BT,Metsäpalojen ennaltaehkäisyyn kuuluu esimerkiksi koulutus- ja valistustoimintaa sekä palovaroituksia ja -rajoituksia.,Käännös OK,1,1,100.0,0.807146
+278,NDFST,Metsäpalojen ennaltaehkäisyyn kuuluu esimerkiksi koulutus- ja valistustoimintaa sekä palovaroituksia ja -rajoituksia.,Käännös OK,1,1,100.0,0.821853
+279,NDFST+MC,Metsäpalojen ennaltaehkäisyyn kuuluu esimerkiksi koulutus- ja valistustoimintaa sekä palovaroituksia ja -rajoituksia.,Käännös OK,1,1,100.0,0.831339
+280,NDFST,Aiempina vuosina tähystystorneja käytettiin metsäpalojen havainnointiin.,Käännös OK,1,1,100.0,0.751366
+281,Forest,Aiempina vuosina tähystystorneja käytettiin metsäpalojen havainnointiin.,Käännös OK,1,1,100.0,0.565357
+282,NDFST+MC,Aiempina vuosina tähystystorneja käytettiin metsäpalojen havainnointiin.,Käännös OK,1,1,100.0,0.879648
+283,Forest,"suunnitelma, joka tehdään osana palonsammutustoimintaa ja jossa otetaan huomioon palokäyttäytyminen, ympäristöolosuhteet ja käytettävissä olevat resurssit",Käännös OK,0,0,100.0,0.36798
+284,Forest/BT,"suunnitelma, joka tehdään osana palonsammutustoimintaa ja jossa otetaan huomioon palokäyttäytyminen, ympäristöolosuhteet ja käytettävissä olevat resurssit",Käännös OK,0,0,100.0,0.459396
+285,NDFST/BT+MC,"suunnitelma, joka tehdään osana palonsammutustoimintaa ja jossa otetaan huomioon palokäyttäytyminen, ympäristöolosuhteet ja käytettävissä olevat resurssit",Käännös OK,0,0,100.0,0.362375
+286,NDFST/BT,"suunnitelma, joka tehdään osana palonsammutustoimintaa ja jossa otetaan huomioon palokäyttäytyminen, ympäristöolosuhteet ja käytettävissä olevat resurssit",Käännös OK,0,0,100.0,0.372987
+287,NDFST,"suunnitelma, joka tehdään osana palonsammutustoimintaa ja jossa otetaan huomioon palokäyttäytyminen, ympäristöolosuhteet ja käytettävissä olevat resurssit",Käännös OK,0,0,100.0,0.387141
+288,NDFST+MC,"suunnitelma, joka tehdään osana palonsammutustoimintaa ja jossa otetaan huomioon palokäyttäytyminen, ympäristöolosuhteet ja käytettävissä olevat resurssit",Käännös OK,0,0,100.0,0.394152
+289,Baseline,"suunnitelma, joka tehdään osana palonsammutustoimintaa ja jossa otetaan huomioon palokäyttäytyminen, ympäristöolosuhteet ja käytettävissä olevat resurssit",Käännös OK,0,0,100.0,0.176128
+290,Forest,"sammutustaktiikat, joissa tulirintamaa ei ole tarkoitettu suoraan tukahdutettavaksi vaan tulta ohjataan, rajoitetaan ja rajoitetaan rakentamalla palokujia",Käännös OK,2,2,100.0,1.723228
+291,Forest,osa sammutustekniikkaa: sammutuksessa käytettävät laitteet ja työkalut,Käännös OK,0,0,100.0,0.270943
+292,Forest/BT,osa sammutustekniikkaa: sammutuksessa käytettävät laitteet ja työkalut,Käännös OK,0,0,100.0,0.339294
+293,NDFST/BT+MC,osa sammutustekniikkaa: sammutuksessa käytettävät laitteet ja työkalut,Käännös OK,0,0,100.0,0.287332
+294,NDFST/BT,osa sammutustekniikkaa: sammutuksessa käytettävät laitteet ja työkalut,Käännös OK,0,0,100.0,0.284796
+295,NDFST,osa sammutustekniikkaa: sammutuksessa käytettävät laitteet ja työkalut,Käännös OK,0,0,100.0,0.281065
+296,NDFST+MC,osa sammutustekniikkaa: sammutuksessa käytettävät laitteet ja työkalut,Käännös OK,0,0,100.0,0.307418
+297,Baseline,osa sammutustekniikkaa: sammutuksessa käytettävät laitteet ja työkalut,Käännös OK,0,0,100.0,0.102206
+298,Baseline,"Palonsammutuslaitteisiin kuuluvat pumput, letkut jne.",Käännös OK (tunnistus väärin),0,1,0.0,0.136029
+299,Forest,Moppiin kuuluu esimerkiksi kantojen ja muurahaispesien palonsammutus,Käännös huono,0,0,100.0,0.300114
+300,Forest/BT,Moppiin kuuluu esimerkiksi kantojen ja muurahaispesien palonsammutus,Käännös huono,0,0,100.0,0.363046
+301,NDFST/BT+MC,Moppiin kuuluu esimerkiksi kantojen ja muurahaispesien palonsammutus,Käännös huono,0,0,100.0,0.31547
+302,NDFST/BT,Moppiin kuuluu esimerkiksi kantojen ja muurahaispesien palonsammutus,Käännös huono,0,0,100.0,0.326344
+303,NDFST,Moppiin kuuluu esimerkiksi kantojen ja muurahaispesien palonsammutus,Käännös huono,0,0,100.0,0.355104
+304,NDFST+MC,Moppiin kuuluu esimerkiksi kantojen ja muurahaispesien palonsammutus,Käännös huono,0,0,100.0,0.312079
+305,Baseline,Moppiin kuuluu esimerkiksi kantojen ja muurahaispesien palonsammutus,Käännös huono,0,0,100.0,0.156989
+306,Poro,"Latvapaloja sammutetaan yleensä epäsuorilla menetelmillä, koska suora sammutus ei ole mahdollista tai turvallista. Indirect and direct tactics are often used in parallel.",Käännös huono,0,1,0.0,1.847724489
+307,Poro,Suorat taktiikat soveltuvat parhaiten matalan intensiteetin tulipalojen tukahduttamiseen.,Käännös OK,0,0,100.0,1.132915242
+308,NDFST/BT,"Tulirintaman yleisen kaventumisen lisäksi sivusta sammuttamista voidaan käyttää tulen etenemisen ohjaamiseen, jolloin palo voidaan ohjata riskialueiden välttämiseksi ja edetä kohti paikkaa, jossa sammutus voidaan tehdä helpommin.",Käännös OK,2,2,100.0,3.174877
+309,NDFST/BT+MC,"Tulirintaman yleisen kaventumisen lisäksi sivusta sammuttamista voidaan käyttää tulen etenemisen ohjaamiseen, jolloin palo voidaan ohjata riskialueiden välttämiseksi ja edetä kohti paikkaa, jossa sammutus voidaan tehdä helpommin.",Käännös OK,2,2,100.0,3.24936
+310,Forest/BT,"Tulirintaman yleisen kaventumisen lisäksi sivusta sammuttamista voidaan käyttää tulen etenemisen ohjaamiseen, jolloin palo voidaan ohjata riskialueiden välttämiseksi ja edetä kohti paikkaa, jossa sammutus voidaan tehdä helpommin.",Käännös OK,2,2,100.0,2.561143
+311,Poro,"Tekniikka, jonka tarkoituksena on vähentää palokuormaa ja erityisesti hienojen paloainesten määrää.",Käännös huono,0,2,0.0,1.33972299
+312,Poro,"Tukahduttamisessa esimerkiksi polttoaineet voidaan erottaa ilmasta palamattomalla aineella, kuten hiekalla.",Käännös OK,0,1,0.0,1.336886275
+313,Poro,Vesisammutus on tavallisin jäähdytysmenetelmä.,Käännös OK (tunnistus väärin),0,2,0.0,0.944128744
+314,NDFST/BT,Tärkeimmät sammutustekniikat ovat vastatuli ja palaminen.,Käännös huono,1,1,100.0,0.544572
+315,NDFST/BT+MC,Tärkeimmät sammutustekniikat ovat vastatuli ja palaminen.,Käännös huono,1,1,100.0,0.565716
+316,Forest/BT,Tärkeimmät sammutustekniikat ovat vastatuli ja palaminen.,Käännös huono,1,1,100.0,0.593952
+317,Forest,Sammutusraivausta käytetään esimerkiksi palokujien ja palokäytävien teon yhteydessä.,Käännös OK,3,3,100.0,5.752559
+318,Baseline,Takatulta käytetään pääasiassa suurten metsäpalojen ja kruunupalojen torjuntaan sekä määrättyyn polttamiseen.,Käännös huono,0,4,0.0,0.150265
+319,Poro,Kulotusta käytetään yleisesti kulotuksessa.,Käännös huono,0,1,0.0,0.89733046
+320,Poro,"luonnollinen palon este tai palolta suojaava este, joka on luotu raivaamalla alue ja tekemällä siitä ei-combustible tai niiden yhdistelmä metsäpalon leviämisen estämiseksi.",Käännös huono,0,3,0.0,1.8867606
+321,NDFST/BT,Rajoituslinjat tehdään usein vettä levittämällä.,Käännös OK,1,1,100.0,0.55265
+322,NDFST/BT+MC,Rajoituslinjat tehdään usein vettä levittämällä.,Käännös OK,1,1,100.0,0.488294
+323,Forest/BT,Rajoituslinjat tehdään usein vettä levittämällä.,Käännös OK,1,1,100.0,0.48207
+324,Forest,Palokuja on yleensä riittävä este maan tai pintapalon tukahduttamiseksi.,Käännös huono,2,2,100.0,0.677279
+325,Forest/BT,Palokuja on yleensä riittävä este maan tai pintapalon tukahduttamiseksi.,Käännös huono,2,2,100.0,0.766676
+326,NDFST/BT+MC,Palokuja on yleensä riittävä este maan tai pintapalon tukahduttamiseksi.,Käännös huono,2,2,100.0,0.993993
+327,NDFST/BT,Palokuja on yleensä riittävä este maan tai pintapalon tukahduttamiseksi.,Käännös huono,2,2,100.0,1.079344
+328,NDFST,Palokuja on yleensä riittävä este maan tai pintapalon tukahduttamiseksi.,Käännös huono,2,2,100.0,1.269607
+329,NDFST+MC,Palokuja on yleensä riittävä este maan tai pintapalon tukahduttamiseksi.,Käännös huono,2,2,100.0,1.046007
+330,Forest,Palokujia ja palokäytäviä ovat rajoituslinjat.,Käännös huono,3,3,100.0,2.026028
+331,NDFST+MC,"Metsäpalojärjestelmä kuvaa tulen roolia tietyllä alueella tietyn ajanjakson aikana ja tiivistää lähes kaikki metsäpaloihin liittyvät muuttujat: metsäpalovaikutukset ja niihin vaikuttavat tekijät, metsäpalojen esiintymistiheys, metsäpalon vakavuus, metsäpalon voimakkuus, tulen koko, syttymisaika ja syttymissyy, säännöllisyys, vaihtelu jne.",Käännös OK (tunnistus väärin),0,0,100.0,15.963835
+332,Baseline,"Metsäpalojärjestelmä kuvaa tulen roolia tietyllä alueella tietyn ajanjakson aikana ja tiivistää lähes kaikki metsäpaloihin liittyvät muuttujat: metsäpalovaikutukset ja niihin vaikuttavat tekijät, metsäpalojen esiintymistiheys, metsäpalon vakavuus, metsäpalon voimakkuus, tulen koko, syttymisaika ja syttymissyy, säännöllisyys, vaihtelu jne.",Käännös OK (tunnistus väärin),0,0,100.0,0.448844
+333,Poro,"lajit, jotka hyötyvät metsäpaloalueista",Käännös OK,0,1,0.0,0.864104127
+334,Forest,"Paloympäristölle on ominaista näkyvät muutokset puustossa ja muussa kasvillisuudessa, jotka ovat palon aiheuttamia.",Käännös OK,0,0,100.0,0.421119
+335,Forest/BT,"Paloympäristölle on ominaista näkyvät muutokset puustossa ja muussa kasvillisuudessa, jotka ovat palon aiheuttamia.",Käännös OK,0,0,100.0,7.139156
+336,NDFST/BT+MC,"Paloympäristölle on ominaista näkyvät muutokset puustossa ja muussa kasvillisuudessa, jotka ovat palon aiheuttamia.",Käännös OK,0,0,100.0,0.35114
+337,NDFST/BT,"Paloympäristölle on ominaista näkyvät muutokset puustossa ja muussa kasvillisuudessa, jotka ovat palon aiheuttamia.",Käännös OK,0,0,100.0,0.355346
+338,NDFST,"Paloympäristölle on ominaista näkyvät muutokset puustossa ja muussa kasvillisuudessa, jotka ovat palon aiheuttamia.",Käännös OK,0,0,100.0,0.343828
+339,NDFST+MC,"Paloympäristölle on ominaista näkyvät muutokset puustossa ja muussa kasvillisuudessa, jotka ovat palon aiheuttamia.",Käännös OK,0,0,100.0,0.369248
+340,Baseline,"Paloympäristölle on ominaista näkyvät muutokset puustossa ja muussa kasvillisuudessa, jotka ovat palon aiheuttamia.",Käännös OK,0,0,100.0,0.162108
+341,Poro,Metsäpalon voimakkuus määritellään energiana tai lämpönä pinta-alayksikköä ja aikaa kohti.,Käännös OK,0,1,0.0,1.33205155
+342,Poro,"Alue, joka on kasvillisuuden tai maaperän kosteuden vuoksi toistuvasti jäänyt metsäpalossa palamatta tai alue, joka jää metsäpalossa kokonaan palamatta.",Käännös huono,0,2,0.0,1.733470665
+343,Baseline,"Metsäpalosääindeksin arvo vaihtelee välillä 1,0,0.",Käännös huono,0,1,0.0,0.114554
+344,Poro,Indeksiä käytetään metsäpalovaroitusten antamisen perusteena.,Käännös OK,0,1,0.0,1.018446654
+345,Forest,"Osa alueesta ei välttämättä pala kertaakaan palonpalautusvälin aikana, mutta osa voi palaa useita kertoja.",Käännös huono,0,0,100.0,0.329355
+346,Forest/BT,"Osa alueesta ei välttämättä pala kertaakaan palonpalautusvälin aikana, mutta osa voi palaa useita kertoja.",Käännös huono,0,0,100.0,0.38632
+347,NDFST/BT+MC,"Osa alueesta ei välttämättä pala kertaakaan palonpalautusvälin aikana, mutta osa voi palaa useita kertoja.",Käännös huono,0,0,100.0,0.359101
+348,NDFST/BT,"Osa alueesta ei välttämättä pala kertaakaan palonpalautusvälin aikana, mutta osa voi palaa useita kertoja.",Käännös huono,0,0,100.0,0.344614
+349,NDFST,"Osa alueesta ei välttämättä pala kertaakaan palonpalautusvälin aikana, mutta osa voi palaa useita kertoja.",Käännös huono,0,0,100.0,0.342436
+350,NDFST+MC,"Osa alueesta ei välttämättä pala kertaakaan palonpalautusvälin aikana, mutta osa voi palaa useita kertoja.",Käännös huono,0,0,100.0,0.332839
+351,Baseline,"Osa alueesta ei välttämättä pala kertaakaan palonpalautusvälin aikana, mutta osa voi palaa useita kertoja.",Käännös huono,0,0,100.0,0.182794
+352,Baseline,Metsäpalotaajuus voidaan ilmaista lukuna tai siitä laskettuna keskimääräisenä palovälinä (tuli-paluuväli).,Käännös huono,0,1,0.0,0.16742
+353,Poro,Palon pää on usein kaareva.,Käännös OK,0,0,100.0,0.858876915
+354,Forest,"palonsammutusmenetelmä, jolla pyritään hyökkäämään palon kylkiin",Käännös huono,0,0,100.0,0.297619
+355,Forest/BT,"palonsammutusmenetelmä, jolla pyritään hyökkäämään palon kylkiin",Käännös huono,0,0,100.0,0.354678
+356,NDFST/BT+MC,"palonsammutusmenetelmä, jolla pyritään hyökkäämään palon kylkiin",Käännös huono,0,0,100.0,0.297344
+357,NDFST/BT,"palonsammutusmenetelmä, jolla pyritään hyökkäämään palon kylkiin",Käännös huono,0,0,100.0,0.299752
+358,NDFST,"palonsammutusmenetelmä, jolla pyritään hyökkäämään palon kylkiin",Käännös huono,0,0,100.0,0.305106
+359,NDFST+MC,"palonsammutusmenetelmä, jolla pyritään hyökkäämään palon kylkiin",Käännös huono,0,0,100.0,0.344045
+360,Baseline,"palonsammutusmenetelmä, jolla pyritään hyökkäämään palon kylkiin",Käännös huono,0,0,100.0,0.123036
+361,Poro,"He eivät syty helposti, ennen kuin ne ovat kuivuneet esimerkiksi lähestyvän tulirintaman lämmöstä.",Käännös huono,0,1,0.0,1.372504236
+362,NDFST/BT,"poikkeuksellisen voimakkaat lämpimät ilmavirrat, jotka nousevat metsäpaloissa, kuljettavat metsän paloaineksia ja palavia kaasuja mukanaan ja lisäävät latvapalojen ja heitepalojen riskiä",Käännös OK,4,4,100.0,6.094441
+363,NDFST/BT+MC,"poikkeuksellisen voimakkaat lämpimät ilmavirrat, jotka nousevat metsäpaloissa, kuljettavat metsän paloaineksia ja palavia kaasuja mukanaan ja lisäävät latvapalojen ja heitepalojen riskiä",Käännös OK,4,4,100.0,6.201658
+364,Forest/BT,"poikkeuksellisen voimakkaat lämpimät ilmavirrat, jotka nousevat metsäpaloissa, kuljettavat metsän paloaineksia ja palavia kaasuja mukanaan ja lisäävät latvapalojen ja heitepalojen riskiä",Käännös OK,4,4,100.0,3.588299
+365,Poro,Metsäpalon synnyttämät kuumat nousevat ilmavirtaukset voivat nostaa palavia kekäleitä pitkiä matkoja.,Käännös OK,0,1,0.0,1.408820771
+366,Poro,Luonnonsuojelualueilla kulotus on usein osa ennallistamistoimia.,Käännös huono,0,1,0.0,1.249310365
+367,Poro,"Nykyisin metsänhoidollisessa kulotuksessa pyritään myös luonnonhoidon tavoitteisiin, ja säästöpuita voidaan polttaa.",Käännös OK,0,1,0.0,1.37498931
+368,Poro,"Luonnonhoidollinen kulotus, joka on suurempi kuin säästöpuuryhmän poltto ja jota suoritetaan metsäisellä alueella.",Käännös OK,0,2,0.0,1.492545678
+369,Forest,"Ennallistamispolttojen tavoitteena on luoda paloympäristö, monipuolistaa metsärakennetta ja lisätä lahopuun määrää.",Käännös OK,1,1,100.0,0.677757
+370,Forest/BT,"Ennallistamispolttojen tavoitteena on luoda paloympäristö, monipuolistaa metsärakennetta ja lisätä lahopuun määrää.",Käännös OK,1,1,100.0,0.74181
+371,NDFST/BT+MC,"Ennallistamispolttojen tavoitteena on luoda paloympäristö, monipuolistaa metsärakennetta ja lisätä lahopuun määrää.",Käännös OK,1,1,100.0,0.774023
+372,NDFST/BT,"Ennallistamispolttojen tavoitteena on luoda paloympäristö, monipuolistaa metsärakennetta ja lisätä lahopuun määrää.",Käännös OK,1,1,100.0,0.761074
+373,NDFST,"Ennallistamispolttojen tavoitteena on luoda paloympäristö, monipuolistaa metsärakennetta ja lisätä lahopuun määrää.",Käännös OK,1,1,100.0,0.761395
+374,NDFST+MC,"Ennallistamispolttojen tavoitteena on luoda paloympäristö, monipuolistaa metsärakennetta ja lisätä lahopuun määrää.",Käännös OK,1,1,100.0,0.81996
+375,Forest,Karuunnuttamiskulotuksella hoidetaan luontaisesti paloalttiita ja usein palaneita metsäkohteita kuten harjuja.,Käännös OK,1,1,100.0,3.216059
+376,Forest/BT,Karuunnuttamiskulotuksella hoidetaan luontaisesti paloalttiita ja usein palaneita metsäkohteita kuten harjuja.,Käännös OK,1,1,100.0,3.282178
+377,NDFST/BT+MC,Karuunnuttamiskulotuksella hoidetaan luontaisesti paloalttiita ja usein palaneita metsäkohteita kuten harjuja.,Käännös OK,1,1,100.0,3.709922
+378,NDFST/BT,Karuunnuttamiskulotuksella hoidetaan luontaisesti paloalttiita ja usein palaneita metsäkohteita kuten harjuja.,Käännös OK,1,1,100.0,3.713853
+379,NDFST,Karuunnuttamiskulotuksella hoidetaan luontaisesti paloalttiita ja usein palaneita metsäkohteita kuten harjuja.,Käännös OK,1,1,100.0,3.616332
+380,NDFST+MC,Karuunnuttamiskulotuksella hoidetaan luontaisesti paloalttiita ja usein palaneita metsäkohteita kuten harjuja.,Käännös OK,1,1,100.0,3.726031
+381,Forest,Perinneympäristön hoitokulotuksen tavoitteet ja toteutustavat vaihtelevat.,Käännös OK,1,1,100.0,1.130829
+382,Forest/BT,Perinneympäristön hoitokulotuksen tavoitteet ja toteutustavat vaihtelevat.,Käännös OK,1,1,100.0,1.039197
+383,NDFST/BT+MC,Perinneympäristön hoitokulotuksen tavoitteet ja toteutustavat vaihtelevat.,Käännös OK,1,1,100.0,1.051224
+384,NDFST/BT,Perinneympäristön hoitokulotuksen tavoitteet ja toteutustavat vaihtelevat.,Käännös OK,1,1,100.0,1.040201
+385,NDFST,Perinneympäristön hoitokulotuksen tavoitteet ja toteutustavat vaihtelevat.,Käännös OK,1,1,100.0,1.391489
+386,NDFST+MC,Perinneympäristön hoitokulotuksen tavoitteet ja toteutustavat vaihtelevat.,Käännös OK,1,1,100.0,1.379981
+387,Poro,Laikkukulotusta käytetään tulen voimakkuuden säätelyyn pienentämällä palavaa aluetta yksi kerrallaan.,Käännös OK,0,1,0.0,1.3275704
+388,NDFST,"Toisin kuin sivutulitekniikassa, chevron-sytytyslinjat ovat ei-rinnakkaisia.",Käännös OK,1,1,100.0,1.103101
+389,Forest,"Toisin kuin sivutulitekniikassa, chevron-sytytyslinjat ovat ei-rinnakkaisia.",Käännös OK,1,1,100.0,0.912006
+390,NDFST+MC,"Toisin kuin sivutulitekniikassa, chevron-sytytyslinjat ovat ei-rinnakkaisia.",Käännös OK,1,1,100.0,1.125766
+391,Poro,Takapaloa käytetään useimmiten kulotuksen aloittamisessa.,Käännös huono,0,1,0.0,0.977642907
+392,Forest,Chevron-tulitusta käytetään erityisesti mäkisillä alueilla.,Käännös huono,0,0,100.0,0.291386
+393,Forest/BT,Chevron-tulitusta käytetään erityisesti mäkisillä alueilla.,Käännös huono,0,0,100.0,0.324064
+394,NDFST/BT+MC,Chevron-tulitusta käytetään erityisesti mäkisillä alueilla.,Käännös huono,0,0,100.0,0.270415
+395,NDFST/BT,Chevron-tulitusta käytetään erityisesti mäkisillä alueilla.,Käännös huono,0,0,100.0,0.265645
+396,NDFST,Chevron-tulitusta käytetään erityisesti mäkisillä alueilla.,Käännös huono,0,0,100.0,0.26278
+397,NDFST+MC,Chevron-tulitusta käytetään erityisesti mäkisillä alueilla.,Käännös huono,0,0,100.0,0.247604
+398,Baseline,Chevron-tulitusta käytetään erityisesti mäkisillä alueilla.,Käännös huono,0,0,100.0,0.113867
+399,NDFST/BT,Sisäkkäisten sytytyslinjojen menetelmä estää tulen voimakkuuden hallitsemattoman kasvun säätelemällä linjojen välistä etäisyyttä.,Käännös OK,1,1,100.0,1.18269
+400,NDFST/BT+MC,Sisäkkäisten sytytyslinjojen menetelmä estää tulen voimakkuuden hallitsemattoman kasvun säätelemällä linjojen välistä etäisyyttä.,Käännös OK,1,1,100.0,1.19842
+401,Forest/BT,Sisäkkäisten sytytyslinjojen menetelmä estää tulen voimakkuuden hallitsemattoman kasvun säätelemällä linjojen välistä etäisyyttä.,Käännös OK,1,1,100.0,1.061273
+402,Baseline,Hätäpalveluille tiedotetaan vaarasta kruunupaloindeksin perusteella.,Käännös huono,0,1,0.0,0.10346
+403,Forest,Palon voimakkuutta voidaan arvioida esimerkiksi liekinkorkeuden havaintojen avulla.,Käännös huono,1,1,100.0,0.435327
+404,Forest/BT,Palon voimakkuutta voidaan arvioida esimerkiksi liekinkorkeuden havaintojen avulla.,Käännös huono,1,1,100.0,0.489746
+405,NDFST/BT+MC,Palon voimakkuutta voidaan arvioida esimerkiksi liekinkorkeuden havaintojen avulla.,Käännös huono,1,1,100.0,0.573677
+406,NDFST/BT,Palon voimakkuutta voidaan arvioida esimerkiksi liekinkorkeuden havaintojen avulla.,Käännös huono,1,1,100.0,0.565823
+407,NDFST,Palon voimakkuutta voidaan arvioida esimerkiksi liekinkorkeuden havaintojen avulla.,Käännös huono,1,1,100.0,0.571477
+408,NDFST+MC,Palon voimakkuutta voidaan arvioida esimerkiksi liekinkorkeuden havaintojen avulla.,Käännös huono,1,1,100.0,0.634598
+409,Forest/BT,"Jos liekit palavat 90 asteen kulmassa maanpintaan nähden, liekin pituus vastaa liekin korkeutta, muussa tapauksessa liekin pituus on suurempi kuin liekinkorkeutena oleva liekinpituuksilla oleva liekinkorkeutta vastaava liekinpituus.",Rajoite väärin,4,4,100.0,16.938774
+410,Forest,"Jos liekit palavat 90 asteen kulmassa maanpintaan nähden, liekin pituus vastaa liekin korkeutta, muussa tapauksessa liekin pituus on suurempi kuin liekinkorkeutena oleva liekinpituuksilla oleva liekinkorkeutta vastaava liekinpituus.",Rajoite väärin,4,4,100.0,16.864515
+411,Baseline,"Suuri riski johtaa ruohopalovaroituksen antamiseen, jonka aikana avotulet ovat kiellettyjä.",Käännös OK (tunnistus väärin),0,1,0.0,0.129777
+412,Baseline,Nurmipaloindeksiä käytetään ennustamaan keväällä parannetun ruohopalon suurta riskiä.,Käännös huono,0,2,0.0,0.142262
+413,Poro,Luonnon metsäpalon voi aiheuttaa esimerkiksi salama tai tulivuorenpurkaus.,Käännös OK,0,1,0.0,1.212719553
+414,Forest,Suomessa hosalla tarkoitetaan yleensä märkäkuusen oksaa.,Käännös huono,1,1,100.0,0.518085
+415,Forest/BT,Suomessa hosalla tarkoitetaan yleensä märkäkuusen oksaa.,Käännös huono,1,1,100.0,0.484821
+416,NDFST/BT+MC,Suomessa hosalla tarkoitetaan yleensä märkäkuusen oksaa.,Käännös huono,1,1,100.0,0.567414
+417,NDFST/BT,Suomessa hosalla tarkoitetaan yleensä märkäkuusen oksaa.,Käännös huono,1,1,100.0,0.462945
+418,NDFST,Suomessa hosalla tarkoitetaan yleensä märkäkuusen oksaa.,Käännös huono,1,1,100.0,0.715948
+419,NDFST+MC,Suomessa hosalla tarkoitetaan yleensä märkäkuusen oksaa.,Käännös huono,1,1,100.0,0.655219
+420,Forest,Maapaloille on ominaista kytevä palaminen.,Käännös OK,0,1,0.0,0.321288
+421,Forest/BT,Maapaloille on ominaista kytevä palaminen.,Käännös OK,0,1,0.0,0.378027
+422,NDFST/BT+MC,Maapaloille on ominaista kytevä palaminen.,Käännös OK,0,1,0.0,0.374291
+423,NDFST/BT,Maapaloille on ominaista kytevä palaminen.,Käännös OK,0,1,0.0,0.3431
+424,NDFST,Maapaloille on ominaista kytevä palaminen.,Käännös OK,0,1,0.0,0.367761
+425,NDFST+MC,Maapaloille on ominaista kytevä palaminen.,Käännös OK,0,1,0.0,0.345957
+426,Baseline,Maapaloille on ominaista kytevä palaminen.,Käännös OK,0,1,0.0,0.10838
+427,Forest,Suomessa palokorot muodostuvat yleensä männyille.,Käännös OK,1,1,100.0,0.476856
+428,Forest/BT,Suomessa palokorot muodostuvat yleensä männyille.,Käännös OK,1,1,100.0,0.539371
+429,NDFST/BT+MC,Suomessa palokorot muodostuvat yleensä männyille.,Käännös OK,1,1,100.0,0.501233
+430,NDFST/BT,Suomessa palokorot muodostuvat yleensä männyille.,Käännös OK,1,1,100.0,0.567037
+431,NDFST,Suomessa palokorot muodostuvat yleensä männyille.,Käännös OK,1,1,100.0,0.54508
+432,NDFST+MC,Suomessa palokorot muodostuvat yleensä männyille.,Käännös OK,1,1,100.0,0.579529
+433,Forest,"metsäpalon todennäköisyys syttymislähteiden yhteisvaikutuksesta, tulipalon mahdollisista syistä, polttoaineen määrästä, polttoaineen ominaisuuksista ja sääolosuhteista johtuen",Käännös huono,0,1,0.0,0.770653
+434,Forest/BT,"metsäpalon todennäköisyys syttymislähteiden yhteisvaikutuksesta, tulipalon mahdollisista syistä, polttoaineen määrästä, polttoaineen ominaisuuksista ja sääolosuhteista johtuen",Käännös huono,0,1,0.0,0.888279
+435,NDFST/BT+MC,"metsäpalon todennäköisyys syttymislähteiden yhteisvaikutuksesta, tulipalon mahdollisista syistä, polttoaineen määrästä, polttoaineen ominaisuuksista ja sääolosuhteista johtuen",Käännös huono,0,1,0.0,0.819619
+436,NDFST/BT,"metsäpalon todennäköisyys syttymislähteiden yhteisvaikutuksesta, tulipalon mahdollisista syistä, polttoaineen määrästä, polttoaineen ominaisuuksista ja sääolosuhteista johtuen",Käännös huono,0,1,0.0,0.801094
+437,NDFST,"metsäpalon todennäköisyys syttymislähteiden yhteisvaikutuksesta, tulipalon mahdollisista syistä, polttoaineen määrästä, polttoaineen ominaisuuksista ja sääolosuhteista johtuen",Käännös huono,0,1,0.0,0.777399
+438,NDFST+MC,"metsäpalon todennäköisyys syttymislähteiden yhteisvaikutuksesta, tulipalon mahdollisista syistä, polttoaineen määrästä, polttoaineen ominaisuuksista ja sääolosuhteista johtuen",Käännös huono,0,1,0.0,0.72852
+439,Baseline,"metsäpalon todennäköisyys syttymislähteiden yhteisvaikutuksesta, tulipalon mahdollisista syistä, polttoaineen määrästä, polttoaineen ominaisuuksista ja sääolosuhteista johtuen",Käännös huono,0,1,0.0,0.203925
+440,Forest,Meikki-ilma voimistuu myrskyn nopeuksiin voimakkaalla konvektiolla,Käännös huono,1,1,100.0,0.404681
+441,Forest/BT,Meikki-ilma voimistuu myrskyn nopeuksiin voimakkaalla konvektiolla,Käännös huono,1,1,100.0,0.58756
+442,NDFST/BT+MC,Meikki-ilma voimistuu myrskyn nopeuksiin voimakkaalla konvektiolla,Käännös huono,1,1,100.0,0.595609
+443,NDFST/BT,Meikki-ilma voimistuu myrskyn nopeuksiin voimakkaalla konvektiolla,Käännös huono,1,1,100.0,0.605663
+444,NDFST,Meikki-ilma voimistuu myrskyn nopeuksiin voimakkaalla konvektiolla,Käännös huono,1,1,100.0,0.550554
+445,NDFST+MC,Meikki-ilma voimistuu myrskyn nopeuksiin voimakkaalla konvektiolla,Käännös huono,1,1,100.0,0.541299
+446,NDFST/BT,ilmoitus kulotuksen suorittajan pelastuslaitokselle tekemästä kulotuksesta,Käännös huono,2,2,100.0,1.314787
+447,NDFST/BT+MC,ilmoitus kulotuksen suorittajan pelastuslaitokselle tekemästä kulotuksesta,Käännös huono,2,2,100.0,1.321109
+448,Poro,Ilman poikkeusta kulotuksen vastuuhenkilö ja johtaja ovat sama henkilö.,Käännös huono,0,2,0.0,1.023108624
+449,Forest,Määrättyä kulotusta varten kulotuksen turvallisuussuunnitelmaan voivat kuulua esimerkiksi pelastuslaitoksen vaatimat hätäreitit ja määrättyä poltetta koskeva tietosuunnitelma.,Rajoite väärin,2,2,100.0,1.544361
+450,Forest,"Metsäpalo, ruohikkopalo, suopalo ja turvepalo ovat esimerkkejä maastopaloista",Käännös OK,5,5,100.0,2.809056
+451,Forest/BT,"Metsäpalo, ruohikkopalo, suopalo ja turvepalo ovat esimerkkejä maastopaloista",Käännös OK,5,5,100.0,1.987146
+452,NDFST/BT+MC,"Metsäpalo, ruohikkopalo, suopalo ja turvepalo ovat esimerkkejä maastopaloista",Käännös OK,5,5,100.0,4.55785
+453,NDFST/BT,"Metsäpalo, ruohikkopalo, suopalo ja turvepalo ovat esimerkkejä maastopaloista",Käännös OK,5,5,100.0,4.510975
+454,NDFST,"Metsäpalo, ruohikkopalo, suopalo ja turvepalo ovat esimerkkejä maastopaloista",Käännös OK,5,5,100.0,4.540002
+455,NDFST+MC,"Metsäpalo, ruohikkopalo, suopalo ja turvepalo ovat esimerkkejä maastopaloista",Käännös OK,5,5,100.0,5.356018
+456,Baseline,"Tulipalo, joka etenee hitaasti",Käännös huono,0,1,0.0,0.058771
+457,Baseline,"Maastopaloja voi esiintyä, jos maaperä sisältää orgaanisia aineita (turve, raaka humus).",Käännös huono,0,1,0.0,0.169185
+458,Baseline,"Puuston kerrostuminen, riittävän tiheä latvustokerros, korkea tulen voimakkuus ja/tai riittävän tuuliset olosuhteet ovat tarpeen latvuspalon syttymiseksi.",Käännös OK (tunnistus väärin),0,1,0.0,0.2417
+459,Baseline,Itsenäinen kruunutuli voi edetä eri nopeudella kuin alemmissa polttoainekerroksissa palava tuli,Käännös huono,0,1,0.0,0.166113
+460,Baseline,"Vähäisen katoksen ja matalan tuulen vuoksi passiivinen latvuspalo ei leviä puiden latvustoissa, mutta tietyissä olosuhteissa se voi kehittyä aktiiviseksi latvuspaloksi.",Käännös huono,0,2,0.0,0.291563
+461,Baseline,"Suomessa ruohopalot ovat yleisimpiä keväisin, ennen kasvukauden alkua.",Käännös OK (tunnistus väärin),0,1,0.0,0.112386
+462,Forest,Suopalo ei välttämättä kehity turvepaloksi.,Käännös OK,2,2,100.0,1.310699
+463,Forest/BT,Suopalo ei välttämättä kehity turvepaloksi.,Käännös OK,2,2,100.0,0.663977
+464,NDFST/BT+MC,Suopalo ei välttämättä kehity turvepaloksi.,Käännös OK,2,2,100.0,0.731522
+465,NDFST/BT,Suopalo ei välttämättä kehity turvepaloksi.,Käännös OK,2,2,100.0,0.687306
+466,NDFST,Suopalo ei välttämättä kehity turvepaloksi.,Käännös OK,2,2,100.0,0.705218
+467,NDFST+MC,Suopalo ei välttämättä kehity turvepaloksi.,Käännös OK,2,2,100.0,1.539799
+468,Baseline,"turvetuotantopaikan palo, joka syttyy paikan pintakerroksessa, jossa turve palaa muutaman millimetrin kerroksessa ja muodostaa pinnalle pieniä kyteviä täpliä",Käännös OK (tunnistus väärin),0,1,0.0,0.270398
+469,NDFST,"palokuorman I rakenneosa, joka voi koostua eri metsän paloaineksista, jotka sijaitsevat tietyllä korkeudella maanpinnasta",Käännös OK,2,2,100.0,3.511598
+470,Forest,"palokuorman I rakenneosa, joka voi koostua eri metsän paloaineksista, jotka sijaitsevat tietyllä korkeudella maanpinnasta",Käännös OK,2,2,100.0,2.578495
+471,NDFST+MC,"palokuorman I rakenneosa, joka voi koostua eri metsän paloaineksista, jotka sijaitsevat tietyllä korkeudella maanpinnasta",Käännös OK,2,2,100.0,3.542545
+472,Baseline,Tikkaiden polttoaineet lisäävät kruunupalon riskiä.,Käännös huono,0,2,0.0,0.095801
+473,NDFST/BT,"Metsän paloainekseen kuuluvat esimerkiksi puut, maakasvillisuus, hakkuumurto, orgaaniset roskat, kuolleet puut ja maan paloaines.",Käännös huono,2,2,100.0,2.20778
+474,NDFST/BT+MC,"Metsän paloainekseen kuuluvat esimerkiksi puut, maakasvillisuus, hakkuumurto, orgaaniset roskat, kuolleet puut ja maan paloaines.",Käännös huono,2,2,100.0,2.213623
+475,Forest/BT,"Metsän paloainekseen kuuluvat esimerkiksi puut, maakasvillisuus, hakkuumurto, orgaaniset roskat, kuolleet puut ja maan paloaines.",Käännös huono,2,2,100.0,1.661639
+476,Forest,Maan paloaines koostuu esimerkiksi turpeesta ja raakahumusta,Käännös huono,1,1,100.0,0.516264
+477,Forest/BT,Maan paloaines koostuu esimerkiksi turpeesta ja raakahumusta,Käännös huono,1,1,100.0,0.636656
+478,NDFST/BT+MC,Maan paloaines koostuu esimerkiksi turpeesta ja raakahumusta,Käännös huono,1,1,100.0,0.534871
+479,NDFST/BT,Maan paloaines koostuu esimerkiksi turpeesta ja raakahumusta,Käännös huono,1,1,100.0,0.534732
+480,NDFST,Maan paloaines koostuu esimerkiksi turpeesta ja raakahumusta,Käännös huono,1,1,100.0,0.614035
+481,NDFST+MC,Maan paloaines koostuu esimerkiksi turpeesta ja raakahumusta,Käännös huono,1,1,100.0,0.632229
+482,NDFST/BT,Palokasvustotyypin ominaisuudet määritellään pääasiassa puuston ja maakasvillisuuden perusteella.,Käännös huono,1,1,100.0,0.686816
+483,NDFST/BT+MC,Palokasvustotyypin ominaisuudet määritellään pääasiassa puuston ja maakasvillisuuden perusteella.,Käännös huono,1,1,100.0,0.735178
+484,Forest/BT,Palokasvustotyypin ominaisuudet määritellään pääasiassa puuston ja maakasvillisuuden perusteella.,Käännös huono,1,1,100.0,0.622856
+485,Poro,"Paloaineksen kosteuspitoisuus vaihtelee sääolosuhteiden mukaan ja vaikuttaa suuresti palon syttymiseen, voimakkuuteen sekä vaikutuksiin.",Käännös OK,0,1,0.0,1.49089938
+486,Baseline,"kuollutta polttoainetta, joka koostuu edellisten kasvukausien kuivuneista ruohoista tai ruohomaisista kasveista",Käännös huono,0,1,0.0,0.135861
+487,Baseline,Kovettunut ruoho kuivuu nopeasti ja syttyy helposti.,Käännös huono,0,1,0.0,0.100221
+488,NDFST/BT,Elävällä paloaineksella on yleensä suhteellisen korkea kosteuspitoisuus.,Käännös OK,0,1,0.0,0.723786
+489,NDFST/BT+MC,Elävällä paloaineksella on yleensä suhteellisen korkea kosteuspitoisuus.,Käännös OK,0,1,0.0,0.709175
+490,Poro,Elävällä paloaineksella on yleensä suhteellisen korkea kosteuspitoisuus.,Käännös OK,0,1,0.0,1.131583187
+491,Forest/BT,Elävällä paloaineksella on yleensä suhteellisen korkea kosteuspitoisuus.,Käännös OK,0,1,0.0,0.596124
+492,NDFST,Hienojen paloainesten halkaisija on yleensä alle 6 mm.,Käännös OK,1,1,100.0,0.810435
+493,Forest,Hienojen paloainesten halkaisija on yleensä alle 6 mm.,Käännös OK,1,1,100.0,0.522687
+494,NDFST+MC,Hienojen paloainesten halkaisija on yleensä alle 6 mm.,Käännös OK,1,1,100.0,0.852721
+495,NDFST,"Karkeita paloaineksia ovat esimerkiksi seisovat ja kaatuneet kuolleet puut, kannot ja isot oksat.",Käännös OK,1,1,100.0,1.413178
+496,Forest,"Karkeita paloaineksia ovat esimerkiksi seisovat ja kaatuneet kuolleet puut, kannot ja isot oksat.",Käännös OK,1,1,100.0,1.148179
+497,NDFST+MC,"Karkeita paloaineksia ovat esimerkiksi seisovat ja kaatuneet kuolleet puut, kannot ja isot oksat.",Käännös OK,1,1,100.0,1.431839
+498,Forest,"Metsäpalojen hallintaan kuuluu ajatus siitä, että jonkin verran paloa tarvitaan ja siitä on hyötyä ekosysteemille, kun taas metsäpalontorjunta keskittyy palon poistamiseen kokonaan, jos mahdollista.",Käännös OK,2,2,100.0,1.835944
+499,Forest/BT,"Metsäpalojen hallintaan kuuluu ajatus siitä, että jonkin verran paloa tarvitaan ja siitä on hyötyä ekosysteemille, kun taas metsäpalontorjunta keskittyy palon poistamiseen kokonaan, jos mahdollista.",Käännös OK,2,2,100.0,1.921622
+500,NDFST/BT+MC,"Metsäpalojen hallintaan kuuluu ajatus siitä, että jonkin verran paloa tarvitaan ja siitä on hyötyä ekosysteemille, kun taas metsäpalontorjunta keskittyy palon poistamiseen kokonaan, jos mahdollista.",Käännös OK,2,2,100.0,2.381574
+501,NDFST/BT,"Metsäpalojen hallintaan kuuluu ajatus siitä, että jonkin verran paloa tarvitaan ja siitä on hyötyä ekosysteemille, kun taas metsäpalontorjunta keskittyy palon poistamiseen kokonaan, jos mahdollista.",Käännös OK,2,2,100.0,2.37867
+502,NDFST,"Metsäpalojen hallintaan kuuluu ajatus siitä, että jonkin verran paloa tarvitaan ja siitä on hyötyä ekosysteemille, kun taas metsäpalontorjunta keskittyy palon poistamiseen kokonaan, jos mahdollista.",Käännös OK,2,2,100.0,2.372226
+503,NDFST+MC,"Metsäpalojen hallintaan kuuluu ajatus siitä, että jonkin verran paloa tarvitaan ja siitä on hyötyä ekosysteemille, kun taas metsäpalontorjunta keskittyy palon poistamiseen kokonaan, jos mahdollista.",Käännös OK,2,2,100.0,2.361168
+504,Poro,Metsäpalojen ennaltaehkäisyyn kuuluu muun muassa valistus- ja tiedotustoimintaa sekä varoitusten antaminen metsäpaloista.,Käännös huono,0,1,0.0,1.454394982
+505,Poro,Aiemmin metsäpalojen havainnointiin käytettiin vartiotorneja.,Käännös OK,0,1,0.0,1.058711547
+506,NDFST,"palontorjuntataktiikat (tulirintamaa ei ole tarkoitettu suoraan tukahdutettavaksi), vaan paloa ohjataan, rajoitetaan ja rajoitetaan rakentamalla palokujia",Rajoite väärin,2,2,100.0,2.990603
+507,NDFST+MC,"palontorjuntataktiikat (tulirintamaa ei ole tarkoitettu suoraan tukahdutettavaksi), vaan paloa ohjataan, rajoitetaan ja rajoitetaan rakentamalla palokujia",Rajoite väärin,2,2,100.0,2.961009
+508,Poro,"Sammutuskalustoon kuuluu pumppuja, letkuja ja muita tarvikkeita.",Käännös OK,0,1,0.0,1.132144993
+509,NDFST,"Epäsuoria taktiikoita käytetään yleensä silloin, kun suorat taktiikat eivät ole tehokkaita, mahdollisia tai turvallisia, kuten yleensä esimerkiksi latvapaloissa. Suoraa ja epäsuoraa taktiikkaa käytetään usein rinnakkain.",Käännös OK,1,1,100.0,1.171692
+510,Forest,"Epäsuoria taktiikoita käytetään yleensä silloin, kun suorat taktiikat eivät ole tehokkaita, mahdollisia tai turvallisia, kuten yleensä esimerkiksi latvapaloissa. Suoraa ja epäsuoraa taktiikkaa käytetään usein rinnakkain.",Käännös OK,1,1,100.0,0.974927
+511,NDFST+MC,"Epäsuoria taktiikoita käytetään yleensä silloin, kun suorat taktiikat eivät ole tehokkaita, mahdollisia tai turvallisia, kuten yleensä esimerkiksi latvapaloissa. Suoraa ja epäsuoraa taktiikkaa käytetään usein rinnakkain.",Käännös OK,1,1,100.0,1.107625
+512,Baseline,"Palorintaman yleisen kaventumisen lisäksi sivustahyökkäystä voidaan käyttää tulen etenemisen ohjaamiseen, jolloin tuli voidaan ohjata riskialueiden välttämiseksi ja edetä kohti paikkaa, jossa tukahduttaminen voidaan tehdä helpommin.",Käännös huono,0,2,0.0,0.260242
+513,Forest,"metsäpalon rajoittaminen tekniikka, jonka tavoitteena on vähentää polttoainekuormitusta ja erityisesti hienojen paloainesten määrää",Käännös huono,2,2,100.0,1.621095
+514,Forest/BT,"metsäpalon rajoittaminen tekniikka, jonka tavoitteena on vähentää polttoainekuormitusta ja erityisesti hienojen paloainesten määrää",Käännös huono,2,2,100.0,1.452032
+515,NDFST/BT+MC,"metsäpalon rajoittaminen tekniikka, jonka tavoitteena on vähentää polttoainekuormitusta ja erityisesti hienojen paloainesten määrää",Käännös huono,2,2,100.0,2.397062
+516,NDFST/BT,"metsäpalon rajoittaminen tekniikka, jonka tavoitteena on vähentää polttoainekuormitusta ja erityisesti hienojen paloainesten määrää",Käännös huono,2,2,100.0,2.380285
+517,NDFST,"metsäpalon rajoittaminen tekniikka, jonka tavoitteena on vähentää polttoainekuormitusta ja erityisesti hienojen paloainesten määrää",Käännös huono,2,2,100.0,2.885932
+518,NDFST+MC,"metsäpalon rajoittaminen tekniikka, jonka tavoitteena on vähentää polttoainekuormitusta ja erityisesti hienojen paloainesten määrää",Käännös huono,2,2,100.0,2.866096
+519,NDFST/BT,"Tukahduttamisessa esimerkiksi polttoaineet voidaan eristää ilmasta palamattomalla materiaalilla, kuten hiekalla.",Käännös OK,1,1,100.0,0.747423
+520,NDFST/BT+MC,"Tukahduttamisessa esimerkiksi polttoaineet voidaan eristää ilmasta palamattomalla materiaalilla, kuten hiekalla.",Käännös OK,1,1,100.0,0.768351
+521,Forest/BT,"Tukahduttamisessa esimerkiksi polttoaineet voidaan eristää ilmasta palamattomalla materiaalilla, kuten hiekalla.",Käännös OK,1,1,100.0,0.730761
+522,Baseline,Veden sammutus on yleisin jäähdytystapa.,Käännös huono,0,2,0.0,0.08819
+523,NDFST,Tärkeimmät tulitustekniikat ovat vastatuli ja palaminen.,Käännös huono,1,1,100.0,0.568354
+524,Forest,Tärkeimmät tulitustekniikat ovat vastatuli ja palaminen.,Käännös huono,1,1,100.0,0.397001
+525,NDFST+MC,Tärkeimmät tulitustekniikat ovat vastatuli ja palaminen.,Käännös huono,1,1,100.0,0.538287
+526,NDFST/BT,Palokujia ja palokäytäviä tehdään muun muassa sammutusraivausten yhteydessä.,Käännös huono,3,3,100.0,2.764097
+527,NDFST/BT+MC,Palokujia ja palokäytäviä tehdään muun muassa sammutusraivausten yhteydessä.,Käännös huono,3,3,100.0,2.747711
+528,Forest/BT,Palokujia ja palokäytäviä tehdään muun muassa sammutusraivausten yhteydessä.,Käännös huono,3,3,100.0,1.653668
+529,NDFST,Vastatulta käytetään pääasiassa suurten maastopalojen ja latvapalojen torjuntaan sekä määrättyyn kulotukseen.,Käännös OK,4,4,100.0,4.139327
+530,Forest,Vastatulta käytetään pääasiassa suurten maastopalojen ja latvapalojen torjuntaan sekä määrättyyn kulotukseen.,Käännös OK,4,4,100.0,2.152474
+531,NDFST+MC,Vastatulta käytetään pääasiassa suurten maastopalojen ja latvapalojen torjuntaan sekä määrättyyn kulotukseen.,Käännös OK,4,4,100.0,4.097864
+532,Baseline,Polttamista käytetään yleisesti määrätyssä polttamisessa.,Käännös huono,0,1,0.0,0.101109
+533,Forest,"metsäpalon leviämisen estämiseksi luonnoneste tai palon este, joka syntyy raivaamalla alue ja tekemällä siitä palamaton tai näiden yhdistelmä",Käännös huono,3,3,100.0,1.946615
+534,Forest/BT,"metsäpalon leviämisen estämiseksi luonnoneste tai palon este, joka syntyy raivaamalla alue ja tekemällä siitä palamaton tai näiden yhdistelmä",Käännös huono,3,3,100.0,2.112961
+535,NDFST/BT+MC,"metsäpalon leviämisen estämiseksi luonnoneste tai palon este, joka syntyy raivaamalla alue ja tekemällä siitä palamaton tai näiden yhdistelmä",Käännös huono,3,3,100.0,3.479969
+536,NDFST/BT,"metsäpalon leviämisen estämiseksi luonnoneste tai palon este, joka syntyy raivaamalla alue ja tekemällä siitä palamaton tai näiden yhdistelmä",Käännös huono,3,3,100.0,3.385853
+537,NDFST,"metsäpalon leviämisen estämiseksi luonnoneste tai palon este, joka syntyy raivaamalla alue ja tekemällä siitä palamaton tai näiden yhdistelmä",Käännös huono,3,3,100.0,3.515519
+538,NDFST+MC,"metsäpalon leviämisen estämiseksi luonnoneste tai palon este, joka syntyy raivaamalla alue ja tekemällä siitä palamaton tai näiden yhdistelmä",Käännös huono,3,3,100.0,3.196394
+539,Poro,Rajoituslinjat tehdään usein levittämällä vettä.,Käännös OK,0,1,0.0,0.977151533
+540,Poro,Palokuja on yleensä riittävä este estämään maan- tai pintapalon leviämisen.,Käännös huono,0,2,0.0,1.217085065
+541,Baseline,Puhdistuksella tehtyjä palokatkoja ovat palokujat ja palolinjat.,Käännös huono,0,3,0.0,0.142763
+542,NDFST/BT+MC,"Metsäpalojärjestelmä kuvaa tulen roolia tietyllä alueella tietyn ajanjakson aikana ja tiivistää lähes kaikki metsäpaloihin liittyvät muuttujat: metsäpalovaikutukset ja niihin vaikuttavat tekijät, metsäpalojen esiintymistiheys, metsäpalojen vaikutus, metsäpalojen voimakkuus, tulen koko, syttymisaika ja syttymissyy, säännöllisyys, vaihtelu jne.",Käännös OK (tunnistus väärin),6,0,100.0,16.328346
+543,NDFST/BT+MC,"alue, joka kasvillisuuden, maaperän kosteusolosuhteiden tai muiden tekijöiden vuoksi on toistuvasti jäänyt palamatta metsäpalohistoriassaan, tai alue, joka jää palamatta suuressa metsäpalossa",Käännös OK,0,2,0.0,2.214981
+544,NDFST/BT,"alue, joka kasvillisuuden, maaperän kosteusolosuhteiden tai muiden tekijöiden vuoksi on toistuvasti jäänyt palamatta metsäpalohistoriassaan, tai alue, joka jää palamatta suuressa metsäpalossa",Käännös OK,0,2,0.0,2.20597
+545,NDFST,"alue, joka kasvillisuuden, maaperän kosteusolosuhteiden tai muiden tekijöiden vuoksi on toistuvasti jäänyt palamatta metsäpalohistoriassaan, tai alue, joka jää palamatta suuressa metsäpalossa",Käännös OK,0,2,0.0,2.195984
+546,NDFST+MC,"alue, joka kasvillisuuden, maaperän kosteusolosuhteiden tai muiden tekijöiden vuoksi on toistuvasti jäänyt palamatta metsäpalohistoriassaan, tai alue, joka jää palamatta suuressa metsäpalossa",Käännös OK,0,2,0.0,2.188843
+547,Baseline,"alue, joka kasvillisuuden, maaperän kosteusolosuhteiden tai muiden tekijöiden vuoksi on toistuvasti jäänyt palamatta metsäpalohistoriassaan, tai alue, joka jää palamatta suuressa metsäpalossa",Käännös OK,0,2,0.0,0.231166
+548,Poro,"Palosääindeksin arvo vaihtelee välillä 1,0–6,0.",Käännös huono,0,1,0.0,1.13180815
+549,Baseline,Indeksiä käytetään metsäpalovaroitusten antamisen pohjana.,Käännös OK,0,1,0.0,0.099678
+550,Poro,Metsäpalojen toistuvuutta voidaan kuvata joko palojen lukumääränä tai siitä lasketulla keskimääräisellä palotaajuudella (palotaajuuden vaihteluväli).,Käännös huono,0,1,0.0,1.802269443
+551,Poro,"poikkeuksellisen voimakkaat lämpimän ilman virtaukset, jotka nousevat metsäpaloissa ja kuljettavat mukanaan metsän paloainesta sekä palavia kaasuja. Ne lisäävät latvapalojen ja heitepalojen riskiä.",Käännös OK,0,4,0.0,2.160408233
+552,Forest,Metsäpalon synnyttämillä kuumilla nousevilla ilmavirroilla voi leijailla pitkiä matkoja.,Käännös huono,1,1,100.0,0.547835
+553,Forest/BT,Metsäpalon synnyttämillä kuumilla nousevilla ilmavirroilla voi leijailla pitkiä matkoja.,Käännös huono,1,1,100.0,0.617355
+554,NDFST/BT+MC,Metsäpalon synnyttämillä kuumilla nousevilla ilmavirroilla voi leijailla pitkiä matkoja.,Käännös huono,1,1,100.0,0.61568
+555,NDFST/BT,Metsäpalon synnyttämillä kuumilla nousevilla ilmavirroilla voi leijailla pitkiä matkoja.,Käännös huono,1,1,100.0,0.621804
+556,NDFST,Metsäpalon synnyttämillä kuumilla nousevilla ilmavirroilla voi leijailla pitkiä matkoja.,Käännös huono,1,1,100.0,0.64963
+557,NDFST+MC,Metsäpalon synnyttämillä kuumilla nousevilla ilmavirroilla voi leijailla pitkiä matkoja.,Käännös huono,1,1,100.0,0.606011
+558,Forest,Käytännössä kulotus on useimmiten erilaisten menetelmien yhdistelmä.,Käännös OK,1,1,100.0,0.395944
+559,Forest/BT,Käytännössä kulotus on useimmiten erilaisten menetelmien yhdistelmä.,Käännös OK,1,1,100.0,0.522339
+560,NDFST/BT+MC,Käytännössä kulotus on useimmiten erilaisten menetelmien yhdistelmä.,Käännös OK,1,1,100.0,0.50776
+561,NDFST/BT,Käytännössä kulotus on useimmiten erilaisten menetelmien yhdistelmä.,Käännös OK,1,1,100.0,0.507197
+562,NDFST,Käytännössä kulotus on useimmiten erilaisten menetelmien yhdistelmä.,Käännös OK,1,1,100.0,0.402029
+563,NDFST+MC,Käytännössä kulotus on useimmiten erilaisten menetelmien yhdistelmä.,Käännös OK,1,1,100.0,0.402493
+564,Baseline,"Nykyään metsänhoidollisella polttamisella pyritään myös luonnonhoitotavoitteisiin, ja retentiopuiden annetaan palaa.",Käännös huono,0,1,0.0,0.178349
+565,NDFST,"luonnonhoidollisena kulotuksena, joka on suurempi kuin säästöpuuryhmän poltto ja jota harjoitetaan metsäalueella",Käännös OK,2,2,100.0,3.506279
+566,Forest,"luonnonhoidollisena kulotuksena, joka on suurempi kuin säästöpuuryhmän poltto ja jota harjoitetaan metsäalueella",Käännös OK,2,2,100.0,2.430548
+567,NDFST+MC,"luonnonhoidollisena kulotuksena, joka on suurempi kuin säästöpuuryhmän poltto ja jota harjoitetaan metsäalueella",Käännös OK,2,2,100.0,3.482679
+568,Poro,"Ennallistamispolttojen tavoitteena on luoda paloympäristö, monipuolistaa metsän rakennetta ja lisätä lahopuun määrää.",Käännös OK,0,1,0.0,1.532245037
+569,Poro,"Karuunnuttamiskulotusta käytetään metsäpaloherkillä ja usein palavilla kohteilla, kuten esimerkiksi moreenimuodostumissa.",Käännös huono,0,1,0.0,1.682942285
+570,Baseline,Määrätyn kulttuuritulen tavoitteet ja toteutustavat vaihtelevat.,Käännös huono,0,1,0.0,0.089376
+571,Baseline,Spot-polttoa käytetään tulen voimakkuuden hallintaan vähentämällä palamisaluetta yksi kerrallaan.,Käännös OK (tunnistus väärin),0,1,0.0,0.157785
+572,Baseline,Vastakohtana sivustatulelle chevron-sytytyslinjat ovat ei-rinnakkaisia.,Käännös huono,0,1,0.0,0.183033
+573,NDFST/BT,Tulta sytytettäessä käytetään useimmiten kulotusta.,Käännös huono,1,1,100.0,0.528379
+574,NDFST/BT+MC,Tulta sytytettäessä käytetään useimmiten kulotusta.,Käännös huono,1,1,100.0,0.517629
+575,Forest/BT,Tulta sytytettäessä käytetään useimmiten kulotusta.,Käännös huono,1,1,100.0,0.490425
+576,Poro,Sisäkkäisten sytytyslinjojen menetelmä estää palojen hallitsemattoman kasvun säätelemällä linjojen välistä etäisyyttä.,Käännös OK,0,1,0.0,1.451512659
+577,Forest,Hätäpalveluille tiedotetaan vaarasta latvapaloindeksin perusteella.,Käännös OK,1,1,100.0,0.390551
+578,Forest/BT,Hätäpalveluille tiedotetaan vaarasta latvapaloindeksin perusteella.,Käännös OK,1,1,100.0,0.458544
+579,NDFST/BT+MC,Hätäpalveluille tiedotetaan vaarasta latvapaloindeksin perusteella.,Käännös OK,1,1,100.0,0.515785
+580,NDFST/BT,Hätäpalveluille tiedotetaan vaarasta latvapaloindeksin perusteella.,Käännös OK,1,1,100.0,0.47362
+581,NDFST,Hätäpalveluille tiedotetaan vaarasta latvapaloindeksin perusteella.,Käännös OK,1,1,100.0,0.471834
+582,NDFST+MC,Hätäpalveluille tiedotetaan vaarasta latvapaloindeksin perusteella.,Käännös OK,1,1,100.0,0.54574
+583,Baseline,Palon voimakkuutta voidaan arvioida esimerkiksi liekin korkeudesta tehtyjen havaintojen avulla.,Käännös OK (tunnistus väärin),0,1,0.0,0.142817
+584,Poro,"Jos liekit palavat 90 asteen kulmassa maan pintaan nähden, niiden pituus on sama kuin korkeus. Muussa tapauksessa pituus on suurempi kuin korkeus.",Käännös OK (tunnistus väärin),0,4,0.0,1.646807141
+585,Forest,"Suuri riski johtaa ruohikkopalovaroituksen antamiseen, jonka aikana avotulet ovat kiellettyjä.",Käännös OK,1,1,100.0,0.672065
+586,Forest/BT,"Suuri riski johtaa ruohikkopalovaroituksen antamiseen, jonka aikana avotulet ovat kiellettyjä.",Käännös OK,1,1,100.0,0.652065
+587,NDFST/BT+MC,"Suuri riski johtaa ruohikkopalovaroituksen antamiseen, jonka aikana avotulet ovat kiellettyjä.",Käännös OK,1,1,100.0,0.699722
+588,NDFST/BT,"Suuri riski johtaa ruohikkopalovaroituksen antamiseen, jonka aikana avotulet ovat kiellettyjä.",Käännös OK,1,1,100.0,0.715609
+589,NDFST,"Suuri riski johtaa ruohikkopalovaroituksen antamiseen, jonka aikana avotulet ovat kiellettyjä.",Käännös OK,1,1,100.0,0.807787
+590,NDFST+MC,"Suuri riski johtaa ruohikkopalovaroituksen antamiseen, jonka aikana avotulet ovat kiellettyjä.",Käännös OK,1,1,100.0,0.733455
+591,NDFST,Ruohikkopaloindeksiä käytetään ennustamaan keväällä kovettuneen kuloheinäpalon suurta riskiä.,Käännös huono,2,2,100.0,1.50356
+592,Forest,Ruohikkopaloindeksiä käytetään ennustamaan keväällä kovettuneen kuloheinäpalon suurta riskiä.,Käännös huono,2,2,100.0,1.134353
+593,NDFST+MC,Ruohikkopaloindeksiä käytetään ennustamaan keväällä kovettuneen kuloheinäpalon suurta riskiä.,Käännös huono,2,2,100.0,1.459331
+594,Baseline,Luonnollisen metsäpalon syy voi olla esimerkiksi salama tai tulivuorenpurkaus.,Käännös OK (tunnistus väärin),0,1,0.0,0.148244
+595,Baseline,Suomessa palohälyttimellä tarkoitetaan yleensä märkäkuusen oksaa.,Käännös huono,0,1,0.0,0.126566
+596,Baseline,Suomessa paloarvet muodostuvat yleensä männyille.,Käännös OK (tunnistus väärin),0,1,0.0,0.101303
+597,Poro,"tuuletusilma, jota voimakas konvektio voimistaa myrskyksi asti",Käännös OK,0,1,0.0,1.168747882
+598,NDFST,ilmoitus määrätyn kulotuksen johtamisesta määrätyn kulotuksen suorittajalta pelastuslaitokselle,Käännös huono,2,2,100.0,1.40666
+599,Forest,ilmoitus määrätyn kulotuksen johtamisesta määrätyn kulotuksen suorittajalta pelastuslaitokselle,Käännös huono,2,2,100.0,0.927124
+600,NDFST+MC,ilmoitus määrätyn kulotuksen johtamisesta määrätyn kulotuksen suorittajalta pelastuslaitokselle,Käännös huono,2,2,100.0,1.37834
+601,NDFST/BT,Lähes poikkeuksetta kulotuksen johtaja ja kulotuksen vastuuhenkilö ovat sama henkilö.,Käännös OK,2,2,100.0,3.271247
+602,NDFST,Lähes poikkeuksetta kulotuksen johtaja ja kulotuksen vastuuhenkilö ovat sama henkilö.,Käännös OK,2,2,100.0,3.613231
+603,NDFST+MC,Lähes poikkeuksetta kulotuksen johtaja ja kulotuksen vastuuhenkilö ovat sama henkilö.,Käännös OK,2,2,100.0,3.423167
+604,NDFST/BT+MC,Lähes poikkeuksetta kulotuksen johtaja ja kulotuksen vastuuhenkilö ovat sama henkilö.,Käännös OK,2,2,100.0,3.253647
+605,NDFST/BT,Määrätyn kulotuksen turvallisuussuunnitelmaan voivat kuulua esimerkiksi pelastuslaitoksen vaatimat hätäreitit ja kulotuksen tiedotussuunnitelma.,Käännös OK,2,2,100.0,1.69368
+606,NDFST/BT+MC,Määrätyn kulotuksen turvallisuussuunnitelmaan voivat kuulua esimerkiksi pelastuslaitoksen vaatimat hätäreitit ja kulotuksen tiedotussuunnitelma.,Käännös OK,2,2,100.0,1.806347
+607,NDFST/BT,"Puuston kerrostuminen, riittävän tiheä katoskerros, korkea tulen voimakkuus ja/tai riittävän tuuliset olosuhteet ovat tarpeen latvapalon tapahtumiseksi.",Käännös huono,1,1,100.0,1.054197
+608,NDFST/BT+MC,"Puuston kerrostuminen, riittävän tiheä katoskerros, korkea tulen voimakkuus ja/tai riittävän tuuliset olosuhteet ovat tarpeen latvapalon tapahtumiseksi.",Käännös huono,1,1,100.0,1.083264
+609,Forest/BT,"Puuston kerrostuminen, riittävän tiheä katoskerros, korkea tulen voimakkuus ja/tai riittävän tuuliset olosuhteet ovat tarpeen latvapalon tapahtumiseksi.",Käännös huono,1,1,100.0,1.011172
+610,NDFST/BT,"palokuorman I rakenneosa, joka voi koostua erilaisista metsän paloaineksista, jotka sijaitsevat tietyllä korkeudella maanpinnasta",Käännös OK,2,2,100.0,1.93748
+611,NDFST/BT+MC,"palokuorman I rakenneosa, joka voi koostua erilaisista metsän paloaineksista, jotka sijaitsevat tietyllä korkeudella maanpinnasta",Käännös OK,2,2,100.0,1.960921
+612,Forest/BT,"palokuorman I rakenneosa, joka voi koostua erilaisista metsän paloaineksista, jotka sijaitsevat tietyllä korkeudella maanpinnasta",Käännös OK,2,2,100.0,1.430583
+613,NDFST,Tikkaat lisäävät latvapalo välittäjäaineksen riskiä.,Rajoite väärin,2,2,100.0,1.345779
+614,Forest,Tikkaat lisäävät latvapalo välittäjäaineksen riskiä.,Rajoite väärin,2,2,100.0,0.851621
+615,NDFST+MC,Tikkaat lisäävät latvapalo välittäjäaineksen riskiä.,Rajoite väärin,2,2,100.0,1.356919
+616,NDFST,"Metsän paloaineksiksi luetaan esimerkiksi puut, maakasvillisuus, hakkuut, orgaaninen roska, kuolleet puut ja maan paloaines.",Käännös huono,2,2,100.0,2.693909
+617,Forest,"Metsän paloaineksiksi luetaan esimerkiksi puut, maakasvillisuus, hakkuut, orgaaninen roska, kuolleet puut ja maan paloaines.",Käännös huono,2,2,100.0,1.846451
+618,NDFST+MC,"Metsän paloaineksiksi luetaan esimerkiksi puut, maakasvillisuus, hakkuut, orgaaninen roska, kuolleet puut ja maan paloaines.",Käännös huono,2,2,100.0,2.702619
+619,Baseline,Elävän polttoainetyypin ominaisuudet määritellään pääasiassa puuston ja maakasvillisuuden perusteella.,Käännös huono,0,1,0.0,0.127394
+620,NDFST/BT,kuivuneesta ruohosta tai edellisten kasvukausien ruohomaisista kasveista koostuva kuollut paloaines,Käännös OK,1,1,100.0,0.900816
+621,NDFST/BT+MC,kuivuneesta ruohosta tai edellisten kasvukausien ruohomaisista kasveista koostuva kuollut paloaines,Käännös OK,1,1,100.0,0.904787
+622,Forest/BT,kuivuneesta ruohosta tai edellisten kasvukausien ruohomaisista kasveista koostuva kuollut paloaines,Käännös OK,1,1,100.0,0.750202
+623,Poro,Hieno paloaines on yleensä alle 6 mm:n paksuista.,Käännös OK,0,1,0.0,1.095678675
+624,Baseline,"Raskaita polttoaineita ovat esimerkiksi seisovat ja kaatuneet kuolleet puut, kannot ja isot oksat.",Käännös huono,0,1,0.0,0.185403
+625,NDFST/BT,Aiempina vuosina metsäpalojen havainnointiin käytettiin tähystystorneja.,Käännös OK,1,1,100.0,0.791378
+626,NDFST/BT+MC,Aiempina vuosina metsäpalojen havainnointiin käytettiin tähystystorneja.,Käännös OK,1,1,100.0,0.787328
+627,Forest/BT,Aiempina vuosina metsäpalojen havainnointiin käytettiin tähystystorneja.,Käännös OK,1,1,100.0,0.752606
+628,Baseline,"palonsammutustaktiikat, joissa palorintamaa ei ole tarkoitettu suoraan tukahdutettavaksi vaan paloa ohjataan, rajoitetaan ja rajoitetaan rakentamalla palolinjoja",Käännös OK (tunnistus väärin),0,2,0.0,0.210927
+629,Baseline,"Epäsuoria taktiikoita käytetään yleensä silloin, kun suorat taktiikat eivät ole tehokkaita, mahdollisia tai turvallisia, kuten yleensä esimerkiksi kruunupalojen kohdalla. Suoraa ja epäsuoraa taktiikkaa käytetään usein rinnakkain.",Käännös huono,0,1,0.0,0.306941
+630,NDFST,"Tulirintaman yleisen kaventumisen lisäksi sivustahyökkäystä voidaan käyttää tulen etenemisen ohjaamiseen, jolloin tuli voidaan ohjata riskialueiden välttämiseksi ja edetä kohti paikkaa, jossa sivusta sammuttaminen voidaan tehdä helpommin.",Rajoite väärin,2,2,100.0,2.893348
+631,Forest,"Tulirintaman yleisen kaventumisen lisäksi sivustahyökkäystä voidaan käyttää tulen etenemisen ohjaamiseen, jolloin tuli voidaan ohjata riskialueiden välttämiseksi ja edetä kohti paikkaa, jossa sivusta sammuttaminen voidaan tehdä helpommin.",Rajoite väärin,2,2,100.0,2.417146
+632,NDFST+MC,"Tulirintaman yleisen kaventumisen lisäksi sivustahyökkäystä voidaan käyttää tulen etenemisen ohjaamiseen, jolloin tuli voidaan ohjata riskialueiden välttämiseksi ja edetä kohti paikkaa, jossa sivusta sammuttaminen voidaan tehdä helpommin.",Rajoite väärin,2,2,100.0,3.027833
+633,Poro,Tärkeimmät sammutustekniikat ovat vastatuli ja sammuttaminen.,Käännös huono,0,1,0.0,1.130818557
+634,NDFST,Nälkää käytetään esimerkiksi palokujien ja palokäytävien sammutusraivauksen yhteydessä.,Rajoite väärin,3,3,100.0,7.828065
+635,NDFST+MC,Nälkää käytetään esimerkiksi palokujien ja palokäytävien sammutusraivauksen yhteydessä.,Rajoite väärin,3,3,100.0,7.733882
+636,Poro,Vastatulta käytetään pääasiassa suurten maastopalojen ja latvapalojen sekä kulotuksen torjunnassa.,Käännös huono,0,4,0.0,1.300167603
+637,NDFST/BT,Palossa käytetään yleisesti kulotusta.,Käännös huono,1,1,100.0,0.496489
+638,NDFST/BT+MC,Palossa käytetään yleisesti kulotusta.,Käännös huono,1,1,100.0,0.521594
+639,Forest/BT,Palossa käytetään yleisesti kulotusta.,Käännös huono,1,1,100.0,0.466122
+640,NDFST,Rajoituslinjoja tehdään usein vettä levittämällä.,Käännös OK,1,1,100.0,0.689383
+641,Forest,Rajoituslinjoja tehdään usein vettä levittämällä.,Käännös OK,1,1,100.0,0.461452
+642,NDFST+MC,Rajoituslinjoja tehdään usein vettä levittämällä.,Käännös OK,1,1,100.0,0.571213
+643,NDFST/BT,Raivaamalla tehdyt rajoituslinjat ovat palokäytäviä ja palokujia.,Käännös OK,3,3,100.0,1.793372
+644,NDFST/BT+MC,Raivaamalla tehdyt rajoituslinjat ovat palokäytäviä ja palokujia.,Käännös OK,3,3,100.0,1.766987
+645,Forest/BT,Raivaamalla tehdyt rajoituslinjat ovat palokäytäviä ja palokujia.,Käännös OK,3,3,100.0,1.060406
+646,NDFST,"Poikkeuksellisen voimakkaat lämpimät ilmavirrat, jotka nousevat metsäpaloissa, kuljettavat metsäpolttoaineita ja palavia kaasuja mukanaan ja lisäävät latvapalojen ja heitepalojen riskiä Metsän paloaines",Rajoite väärin,4,4,100.0,17.116782
+647,Forest,"Poikkeuksellisen voimakkaat lämpimät ilmavirrat, jotka nousevat metsäpaloissa, kuljettavat metsäpolttoaineita ja palavia kaasuja mukanaan ja lisäävät latvapalojen ja heitepalojen riskiä Metsän paloaines",Rajoite väärin,4,4,100.0,11.749429
+648,NDFST/BT,"Säästöpuuryhmän polttoa suurempi luonnonhoidollinen kulotus, joka suoritetaan metsäalueella",Käännös OK,2,2,100.0,1.760592
+649,NDFST/BT+MC,"Säästöpuuryhmän polttoa suurempi luonnonhoidollinen kulotus, joka suoritetaan metsäalueella",Käännös OK,2,2,100.0,1.79938
+650,Forest/BT,"Säästöpuuryhmän polttoa suurempi luonnonhoidollinen kulotus, joka suoritetaan metsäalueella",Käännös OK,2,2,100.0,1.344343
+651,NDFST/BT,Laikkukulotusta käytetään tulen voimakkuuden hallintaan vähentämällä palavaa aluetta yksi kerrallaan.,Käännös OK,1,1,100.0,0.93464
+652,NDFST/BT+MC,Laikkukulotusta käytetään tulen voimakkuuden hallintaan vähentämällä palavaa aluetta yksi kerrallaan.,Käännös OK,1,1,100.0,0.939107
+653,Forest/BT,Laikkukulotusta käytetään tulen voimakkuuden hallintaan vähentämällä palavaa aluetta yksi kerrallaan.,Käännös OK,1,1,100.0,0.861093
+654,Poro,Sivutulitekniikkaan verrattuna chevron-ignitio-linjat eivät ole samansuuntaisia.,Käännös huono,0,1,0.0,1.329490993
+655,Baseline,"Tulipalon sammuttamista käytetään useimmiten silloin, kun aloitetaan määrätty polttaminen.",Käännös huono,0,1,0.0,0.107165
+656,Baseline,Keski- ja pyöröammunta estää tulen voimakkuuden hallitsemattoman kasvun säätelemällä linjojen välistä etäisyyttä.,Käännös huono,0,1,0.0,0.213568
+657,NDFST/BT,"Jos liekit palavat 90 asteen kulmassa maanpintaan nähden, liekinpituus vastaa liekinkorkeutta, muuten liekinpituus on liekinkorkeutta suurempi.",Käännös OK,4,4,100.0,6.039807
+658,NDFST,"Jos liekit palavat 90 asteen kulmassa maanpintaan nähden, liekinpituus vastaa liekinkorkeutta, muuten liekinpituus on liekinkorkeutta suurempi.",Käännös OK,4,4,100.0,5.999135
+659,NDFST+MC,"Jos liekit palavat 90 asteen kulmassa maanpintaan nähden, liekinpituus vastaa liekinkorkeutta, muuten liekinpituus on liekinkorkeutta suurempi.",Käännös OK,4,4,100.0,6.137308
+660,NDFST/BT+MC,"Jos liekit palavat 90 asteen kulmassa maanpintaan nähden, liekinpituus vastaa liekinkorkeutta, muuten liekinpituus on liekinkorkeutta suurempi.",Käännös OK,4,4,100.0,6.111365
+661,Poro,Ruohikkopalovaaran indeksi ennustaa kuloheinän suuren paloriskin keväällä.,Käännös OK,0,2,0.0,1.294173417
+662,Forest/BT,kulotusilmoitus palo kulotuksen suorittajan pelastuslaitokselle tekemästä palosta,Käännös huono,2,2,100.0,1.057181
+663,Baseline,Lähes poikkeuksetta määrätty poltin ja määrätty palopäällikkö ovat sama henkilö.,Käännös huono,0,2,0.0,0.117968
+664,Baseline,Määrättyä polttamista koskeva turvallisuussuunnitelma voi sisältää esimerkiksi pelastuslaitoksen vaatimat hätäreitit ja määrättyä polttamista koskevan tietosuunnitelman.,Käännös huono,0,2,0.0,0.201521
+665,NDFST/BT,"sammutustaktiikat, joissa tulirintamaa ei ole tarkoitettu suoraan tukahdutettavaksi, vaan tulta ohjataan, rajoitetaan ja rajoitetaan palokujilla",Käännös OK,2,2,100.0,2.010791
+666,NDFST/BT+MC,"sammutustaktiikat, joissa tulirintamaa ei ole tarkoitettu suoraan tukahdutettavaksi, vaan tulta ohjataan, rajoitetaan ja rajoitetaan palokujilla",Käännös OK,2,2,100.0,2.022823
+667,Forest/BT,"sammutustaktiikat, joissa tulirintamaa ei ole tarkoitettu suoraan tukahdutettavaksi, vaan tulta ohjataan, rajoitetaan ja rajoitetaan palokujilla",Käännös OK,2,2,100.0,1.664118
+668,Poro,Sammutusraivausta käytetään esimerkiksi palokujien ja -käytävien tekemiseen.,Käännös OK (tunnistus väärin),0,3,0.0,1.219034041
+669,NDFST,Puhdistamalla tehtyjä palokatkoja ovat palokujat ja palokäytävät. rajoituslinjat.,Rajoite väärin,3,3,100.0,2.969904
+670,NDFST+MC,Puhdistamalla tehtyjä palokatkoja ovat palokujat ja palokäytävät. rajoituslinjat.,Rajoite väärin,3,3,100.0,2.942201
+671,Poro,"Metsäpaloregiimi kuvaa tulen roolia tietyllä alueella tietyn ajan kuluessa ja summaa lähes kaikki metsäpaloihin liittyvät muuttujat: metsäpalojen vaikutukset sekä niiden vaikuttavat tekijät, metsäpalojen toistuvuus, metsäpalon vaikuttavuus, metsäpalon voimakkuus, palon koko, syttymisaika ja syy, säännöllisyys, vaihtelu jne.",Käännös OK,0,0,100.0,3.15655135
+672,Poro,Palokunnan on ilmoitettava kulotuksen suorittajalle kulotuksesta.,Käännös huono,0,2,0.0,1.02219645
+673,Forest,Lähes poikkeuksetta määrätty poltin ja määrätty kulotuksen johtaja kulotuksen vastuuhenkilö on sama henkilö.,Rajoite väärin,2,2,100.0,2.684883
+674,NDFST,Määrätyn kulotuksen turvallisuussuunnitelma voi sisältää esimerkiksi pelastuslaitoksen vaatimat hätäreitit ja määrätystä kulotuksesta tiedottavan suunnitelman.,Käännös OK,2,2,100.0,1.654116
+675,NDFST+MC,Määrätyn kulotuksen turvallisuussuunnitelma voi sisältää esimerkiksi pelastuslaitoksen vaatimat hätäreitit ja määrätystä kulotuksesta tiedottavan suunnitelman.,Käännös OK,2,2,100.0,1.647213
+676,NDFST/BT,"Metsäpalojärjestelmä kuvaa tulen roolia tietyllä alueella tietyllä aikavälillä ja tiivistää lähes kaikki metsäpaloihin liittyvät muuttujat: metsäpalovaikutukset ja niihin vaikuttavat tekijät, metsäpalojen toistuvuus, metsäpalon vaikuttavuus, metsäpalon voimakkuuden, metsäpaloregiimin koko, syttymisaika ja syttymissyy, säännöllisyys, vaihtelu jne.",Rajoite väärin,6,0,100.0,74.634964
+677,Poro,Kulotuksen turvallisuussuunnitelmaan voi sisältyä esimerkiksi pelastuslaitoksen edellyttämät pelastustiet ja kulotuksen tiedotussuunnitelma.,Käännös OK,0,2,0.0,1.416831617
