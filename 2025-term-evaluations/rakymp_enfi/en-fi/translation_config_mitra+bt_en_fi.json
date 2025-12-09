@@ -1,0 +1,12 @@
+{
+"model_name": "../nieminen-pohjamallit/eng-fin-transformers",
+"backwards_model_name": "../nieminen-pohjamallit/fin-eng-transformers",
+"constrained_decoding": true,
+"soft_method": "backtranslation",
+"device": "cuda",
+"research_options": {},
+"source_lang": "en",
+"target_lang": "fi",
+"source_sentences": "/home/ec2-user/Projektit/nieminen/relevant/rakymp.constraints.enfi.jsonl",
+"translated_sentences": "/home/ec2-user/Projektit/nieminen/relevant/rakymp_enfi/rakymp_mitra+bt_en_fi.jsonl"
+}

@@ -1,0 +1,14 @@
+{
+"model_name": "../rajoitekoulutetut/fi-en-converted",
+"term_source_start_token": 57125,
+"term_target_start_token": 21223,
+"term_target_end_token": 56920,
+"constrained_decoding": true,
+"soft_method": "soft-constraint",
+"device": "cuda",
+"research_options": {},
+"source_lang": "fi",
+"target_lang": "en",
+"source_sentences": "/home/ec2-user/Projektit/nieminen/relevant/valtioneuvosto.constraints.fien.unique.jsonl",
+"translated_sentences": "/home/ec2-user/Projektit/nieminen/relevant/vnk_fien/vnk_nieminen+mitra_fi_en.jsonl"
+}

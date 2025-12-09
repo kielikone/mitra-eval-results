@@ -1,0 +1,12 @@
+{
+"model_name": "../nieminen-pohjamallit/eng-fin-transformers",
+"constrained_decoding": false,
+"soft_method": null,
+"generation_config": {"num_beams": 50, "length_penalty": -1},
+"device": "cuda",
+"research_options": {},
+"source_lang": "en",
+"target_lang": "fi",
+"source_sentences": "/home/ec2-user/Projektit/nieminen/relevant/codes.constraints.enfi.jsonl",
+"translated_sentences": "/home/ec2-user/Projektit/nieminen/relevant/codes_en-fi/codes_wide_en_fi.jsonl"
+}

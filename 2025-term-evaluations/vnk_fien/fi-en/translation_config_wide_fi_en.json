@@ -1,0 +1,12 @@
+{
+"model_name": "../nieminen-pohjamallit/fin-eng-transformers",
+"constrained_decoding": false,
+"soft_method": null,
+"generation_config": {"num_beams": 50, "length_penalty": -1},
+"device": "cuda",
+"research_options": {},
+"source_lang": "fi",
+"target_lang": "en",
+"source_sentences": "/home/ec2-user/Projektit/nieminen/relevant/valtioneuvosto.constraints.fien.unique.jsonl",
+"translated_sentences": "/home/ec2-user/Projektit/nieminen/relevant/vnk_fien/vnk_wide_fi_en.jsonl"
+}

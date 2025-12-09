@@ -1,0 +1,11 @@
+{
+"model_name": "xxx",
+"device": "cuda",
+"constrained_decoding": false,
+"soft_method": "llm",
+"research_options": {},
+"source_lang": "fi",
+"target_lang": "en",
+"source_sentences": "/home/ec2-user/Projektit/nieminen/relevant/brands.constraints.fien.jsonl",
+"translated_sentences": "/home/ec2-user/Projektit/nieminen/relevant/brands_fien/brands_llm_fi_en.jsonl"
+}

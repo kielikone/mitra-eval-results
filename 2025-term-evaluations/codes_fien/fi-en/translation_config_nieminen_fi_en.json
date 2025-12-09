@@ -1,0 +1,14 @@
+{
+"model_name": "../rajoitekoulutetut/fi-en-converted",
+"term_source_start_token": 57125,
+"term_target_start_token": 21223,
+"term_target_end_token": 56920,
+"constrained_decoding": false,
+"soft_method": "soft-constraint",
+"device": "cuda",
+"research_options": {},
+"source_lang": "fi",
+"target_lang": "en",
+"source_sentences": "/home/ec2-user/Projektit/nieminen/relevant/codes.constraints.fien.jsonl",
+"translated_sentences": "/home/ec2-user/Projektit/nieminen/relevant/codes_fien/codes_nieminen_fi_en.jsonl"
+}

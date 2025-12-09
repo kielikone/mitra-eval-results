@@ -1,0 +1,14 @@
+{
+"model_name": "../rajoitekoulutetut/en-fi-converted",
+"term_source_start_token": 57440,
+"term_target_start_token": 57432,
+"term_target_end_token": 57291,
+"constrained_decoding": true,
+"soft_method": "soft-constraint",
+"device": "cuda",
+"research_options": {},
+"source_lang": "en",
+"target_lang": "fi",
+"source_sentences": "/home/ec2-user/Projektit/nieminen/relevant/brands.constraints.enfi.jsonl",
+"translated_sentences": "/home/ec2-user/Projektit/nieminen/relevant/brands_enfi/brands_nieminen+mitra_en_fi.jsonl"
+}
